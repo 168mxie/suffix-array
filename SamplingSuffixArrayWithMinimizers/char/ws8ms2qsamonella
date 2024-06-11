@@ -1,0 +1,2003 @@
+Construction Time: 23089 ms
+SA Size: 4630767 bytes
+Query Time: 55 ms
+0:54975:R 54975 Query Time: 45 micros
+1:12327:M  Query Time: 34 micros
+2:557717:R 557717 Query Time: 34 micros
+3:330002:M  Query Time: 32 micros
+4:516947:R 516947 Query Time: 34 micros
+5:65525:R 65525 Query Time: 29 micros
+6:682355:R 682355 Query Time: 28 micros
+7:500769:R 500769 Query Time: 31 micros
+8:914810:R 914810 Query Time: 27 micros
+9:58720:R 58720 Query Time: 29 micros
+10:906437:R 906437 Query Time: 29 micros
+11:297400:R 297400 Query Time: 31 micros
+12:171043:R 171043 Query Time: 30 micros
+13:1202362:R 1202362 Query Time: 30 micros
+14:1231600:R 1231600 Query Time: 28 micros
+15:1330052:R 1330052 Query Time: 28 micros
+16:471672:M  Query Time: 28 micros
+17:514521:R 514521 Query Time: 28 micros
+18:1014939:R 1014939 Query Time: 28 micros
+19:163152:R 163152 Query Time: 28 micros
+20:173222:M  Query Time: 27 micros
+21:916481:R 916481 Query Time: 28 micros
+22:232304:R 232304 Query Time: 28 micros
+23:1045078:R 1045078 Query Time: 27 micros
+24:1007511:R 1007511 Query Time: 44 micros
+25:1153759:R 1153759 Query Time: 27 micros
+26:266269:M  Query Time: 29 micros
+27:742823:R 742823 Query Time: 28 micros
+28:680573:R 680573 Query Time: 28 micros
+29:1123710:R 1123710 Query Time: 28 micros
+30:1019406:R 1019406	168872	547826	188317 Query Time: 34 micros
+31:471494:R 471494 Query Time: 27 micros
+32:166636:R 166636 Query Time: 27 micros
+33:740788:R 740788 Query Time: 28 micros
+34:677195:R 677195 Query Time: 27 micros
+35:84552:R 84552 Query Time: 28 micros
+36:216565:M  Query Time: 27 micros
+37:218429:R 218429 Query Time: 25 micros
+38:1166663:R 1166663 Query Time: 28 micros
+39:1358644:R 1358644 Query Time: 27 micros
+40:495355:R 495355 Query Time: 27 micros
+41:717971:R 717971 Query Time: 26 micros
+42:1258189:R 1258189 Query Time: 26 micros
+43:601373:R 601373 Query Time: 28 micros
+44:1300710:R 1300710 Query Time: 27 micros
+45:1336958:R 1336958 Query Time: 27 micros
+46:49701:R 49701 Query Time: 30 micros
+47:1304002:R 1304002 Query Time: 29 micros
+48:491367:R 491367 Query Time: 26 micros
+49:976908:R 976908 Query Time: 27 micros
+50:920445:M  Query Time: 28 micros
+51:1084119:R 1084119 Query Time: 25 micros
+52:296719:R 296719 Query Time: 25 micros
+53:890801:R 890801 Query Time: 27 micros
+54:1324711:R 1324711 Query Time: 25 micros
+55:1168684:R 1168684 Query Time: 33 micros
+56:779736:R 779736 Query Time: 27 micros
+57:1177511:R 1177511 Query Time: 26 micros
+58:803425:M  Query Time: 26 micros
+59:835600:R 835600 Query Time: 27 micros
+60:61573:R 61573 Query Time: 27 micros
+61:941173:R 941173 Query Time: 30 micros
+62:127620:R 127620 Query Time: 27 micros
+63:567237:R 567237 Query Time: 27 micros
+64:891546:R 891546 Query Time: 27 micros
+65:458917:R 458917 Query Time: 27 micros
+66:769621:R 769621 Query Time: 27 micros
+67:744918:R 744918 Query Time: 27 micros
+68:798571:R 798571 Query Time: 28 micros
+69:775683:M  Query Time: 27 micros
+70:1350007:R 1350007 Query Time: 27 micros
+71:985472:R 985472 Query Time: 27 micros
+72:258308:R 258308 Query Time: 28 micros
+73:947459:R 947459	1366895 Query Time: 86 micros
+74:530012:R 530012 Query Time: 27 micros
+75:515:R 515 Query Time: 28 micros
+76:336082:R 337287	336082 Query Time: 29 micros
+77:482566:R 482566 Query Time: 26 micros
+78:1388858:R 1388858 Query Time: 26 micros
+79:1217334:M  Query Time: 27 micros
+80:205243:R 205243 Query Time: 27 micros
+81:1299606:R 1299606 Query Time: 27 micros
+82:905096:R 905096 Query Time: 26 micros
+83:996102:M  Query Time: 28 micros
+84:1174923:R 1174923 Query Time: 26 micros
+85:655847:M  Query Time: 26 micros
+86:740619:M  Query Time: 27 micros
+87:1209767:R 513837	257297	1224623	1224439	1224255	1209767 Query Time: 30 micros
+88:735154:R 735154 Query Time: 26 micros
+89:716876:R 716876 Query Time: 25 micros
+90:983497:R 983497 Query Time: 26 micros
+91:328129:R 328129 Query Time: 26 micros
+92:269266:R 269266 Query Time: 28 micros
+93:379120:R 379120 Query Time: 26 micros
+94:352562:R 352562 Query Time: 27 micros
+95:653148:R 653148 Query Time: 24 micros
+96:1177226:R 262317	1177226 Query Time: 27 micros
+97:988018:R 988018 Query Time: 26 micros
+98:505874:R 505874 Query Time: 27 micros
+99:1296744:R 1296744 Query Time: 28 micros
+100:870288:R 870288 Query Time: 25 micros
+101:47226:R 47226 Query Time: 26 micros
+102:27389:R 27389 Query Time: 26 micros
+103:254530:R 254530 Query Time: 26 micros
+104:584992:R 584992 Query Time: 28 micros
+105:137817:R 137817 Query Time: 26 micros
+106:775810:R 775810 Query Time: 25 micros
+107:305079:R 305079 Query Time: 26 micros
+108:805860:R 805860 Query Time: 25 micros
+109:271402:R 271402 Query Time: 31 micros
+110:493383:R 493383 Query Time: 26 micros
+111:1210115:R 1210115 Query Time: 27 micros
+112:32542:R 32542 Query Time: 26 micros
+113:719532:R 719532 Query Time: 27 micros
+114:403024:R 403024 Query Time: 26 micros
+115:185887:R 185887	508265 Query Time: 27 micros
+116:219512:R 219512 Query Time: 27 micros
+117:1018743:R 1018743 Query Time: 28 micros
+118:1378936:R 1378936 Query Time: 28 micros
+119:1297659:M  Query Time: 25 micros
+120:992654:M  Query Time: 27 micros
+121:52995:R 52995 Query Time: 27 micros
+122:1112249:R 1112249 Query Time: 26 micros
+123:559095:R 559095 Query Time: 25 micros
+124:925017:R 925017 Query Time: 26 micros
+125:288780:R 288780 Query Time: 26 micros
+126:893664:R 893664 Query Time: 27 micros
+127:1323774:R 1323774 Query Time: 27 micros
+128:355261:R 355261 Query Time: 27 micros
+129:1229295:R 1229295 Query Time: 26 micros
+130:232383:R 232383 Query Time: 26 micros
+131:939869:M  Query Time: 27 micros
+132:523600:R 1204464	523600 Query Time: 25 micros
+133:103413:R 103413	41470 Query Time: 27 micros
+134:1217225:R 1217225 Query Time: 27 micros
+135:1066536:M  Query Time: 24 micros
+136:773019:R 773019 Query Time: 63 micros
+137:645787:R 645787 Query Time: 28 micros
+138:1363875:R 1363875 Query Time: 29 micros
+139:808771:M 808771 Query Time: 27 micros
+140:468326:R 468326 Query Time: 27 micros
+141:2948:R 2948 Query Time: 27 micros
+142:650205:R 650205 Query Time: 26 micros
+143:842586:M  Query Time: 24 micros
+144:696710:M  Query Time: 25 micros
+145:178770:R 178770 Query Time: 26 micros
+146:487144:R 487144 Query Time: 28 micros
+147:1131808:R 1131808 Query Time: 27 micros
+148:693690:M  Query Time: 25 micros
+149:1042588:R 1042588 Query Time: 33 micros
+150:1337280:M  Query Time: 27 micros
+151:62844:R 62844 Query Time: 28 micros
+152:1144701:R 1144701 Query Time: 26 micros
+153:1255196:R 1255196 Query Time: 28 micros
+154:259801:R 259801 Query Time: 26 micros
+155:1397211:R 1397211 Query Time: 27 micros
+156:465616:R 465616 Query Time: 25 micros
+157:533777:R 533777 Query Time: 27 micros
+158:681731:R 681731 Query Time: 25 micros
+159:1077079:R 1077079 Query Time: 26 micros
+160:235312:R 235312 Query Time: 26 micros
+161:1381107:R 1381107 Query Time: 27 micros
+162:236688:R 236688 Query Time: 27 micros
+163:649779:R 649779 Query Time: 27 micros
+164:358981:R 358981 Query Time: 26 micros
+165:949335:R 949335 Query Time: 25 micros
+166:230356:R 230356 Query Time: 28 micros
+167:327887:R 327887 Query Time: 28 micros
+168:802837:R 802837 Query Time: 26 micros
+169:966900:R 966900 Query Time: 26 micros
+170:884634:R 884634 Query Time: 28 micros
+171:421493:R 421493 Query Time: 27 micros
+172:994631:R 994631 Query Time: 27 micros
+173:909612:R 909612 Query Time: 27 micros
+174:1242680:R 1242680 Query Time: 27 micros
+175:108767:R 108767 Query Time: 26 micros
+176:234220:M  Query Time: 25 micros
+177:809850:R 809850 Query Time: 27 micros
+178:699587:M 705903 Query Time: 29 micros
+179:810776:R 810776 Query Time: 27 micros
+180:1287925:R 1287925 Query Time: 26 micros
+181:756638:M  Query Time: 25 micros
+182:662656:R 662656 Query Time: 27 micros
+183:1260402:R 1260402 Query Time: 27 micros
+184:750893:R 750893 Query Time: 25 micros
+185:217652:R 217652 Query Time: 26 micros
+186:1127558:R 1127558 Query Time: 26 micros
+187:21642:R 21642 Query Time: 27 micros
+188:56582:R 56582 Query Time: 26 micros
+189:1094866:R 1094866 Query Time: 26 micros
+190:314483:R 314483 Query Time: 26 micros
+191:1279970:R 1279970 Query Time: 27 micros
+192:876080:R 876080 Query Time: 27 micros
+193:1060974:R 1060974 Query Time: 31 micros
+194:557746:R 557746 Query Time: 27 micros
+195:781576:M  Query Time: 32 micros
+196:494377:R 494377 Query Time: 27 micros
+197:865673:R 865673 Query Time: 26 micros
+198:897464:M  Query Time: 26 micros
+199:256560:M  Query Time: 24 micros
+200:282994:R 282994 Query Time: 26 micros
+201:1168986:R 1168986 Query Time: 28 micros
+202:334379:R 334379 Query Time: 26 micros
+203:1358826:R 1358826 Query Time: 25 micros
+204:164531:R 164531 Query Time: 28 micros
+205:944879:R 944879 Query Time: 26 micros
+206:191581:R 191581 Query Time: 26 micros
+207:342287:R 342287 Query Time: 26 micros
+208:832504:R 832504 Query Time: 26 micros
+209:91067:R 91067 Query Time: 26 micros
+210:454924:R 454924 Query Time: 32 micros
+211:1050477:R 1050477 Query Time: 25 micros
+212:1254536:R 1254536 Query Time: 26 micros
+213:1309645:R 1309645 Query Time: 26 micros
+214:177508:R 177508 Query Time: 27 micros
+215:563815:R 563815 Query Time: 25 micros
+216:767935:R 728158	767935 Query Time: 25 micros
+217:746936:R 746936 Query Time: 25 micros
+218:351672:R 351672 Query Time: 27 micros
+219:408591:R 408591 Query Time: 100 micros
+220:949425:M  Query Time: 24 micros
+221:1295370:M  Query Time: 25 micros
+222:183554:R 183554 Query Time: 26 micros
+223:1167055:R 1167055 Query Time: 26 micros
+224:804651:R 804651 Query Time: 26 micros
+225:362731:R 362731 Query Time: 27 micros
+226:832204:R 832204 Query Time: 27 micros
+227:567518:M  Query Time: 25 micros
+228:369623:R 369623 Query Time: 26 micros
+229:1388728:R 1388728 Query Time: 27 micros
+230:343292:R 343292 Query Time: 25 micros
+231:1112603:R 1112603 Query Time: 27 micros
+232:972291:M  Query Time: 26 micros
+233:1304821:R 1304821 Query Time: 27 micros
+234:187741:R 187741 Query Time: 28 micros
+235:1053125:R 1053125 Query Time: 26 micros
+236:215099:R 215099 Query Time: 27 micros
+237:324086:R 1043074	324086 Query Time: 26 micros
+238:282447:R 282447 Query Time: 26 micros
+239:882942:R 882942 Query Time: 27 micros
+240:402643:R 402643 Query Time: 26 micros
+241:1077435:R 1077435 Query Time: 25 micros
+242:774300:R 774300 Query Time: 28 micros
+243:329071:R 329071 Query Time: 26 micros
+244:416908:R 416908 Query Time: 26 micros
+245:808788:R 808788 Query Time: 27 micros
+246:699469:R 699469 Query Time: 27 micros
+247:116731:R 116731 Query Time: 27 micros
+248:1066316:R 1066316 Query Time: 26 micros
+249:1216412:R 1216412 Query Time: 27 micros
+250:1283176:R 1283176 Query Time: 27 micros
+251:1308196:R 1308196 Query Time: 26 micros
+252:133130:R 133130 Query Time: 27 micros
+253:175118:R 175118 Query Time: 28 micros
+254:824321:R 824321 Query Time: 25 micros
+255:1358089:M  Query Time: 25 micros
+256:552690:R 552690 Query Time: 27 micros
+257:809876:R 809876 Query Time: 27 micros
+258:198521:R 198521 Query Time: 24 micros
+259:751396:R 751396 Query Time: 26 micros
+260:941993:R 941993 Query Time: 27 micros
+261:343332:M  Query Time: 25 micros
+262:136531:R 136531 Query Time: 27 micros
+263:1197350:R 1197350 Query Time: 27 micros
+264:621103:R 621103 Query Time: 27 micros
+265:26828:R 26828 Query Time: 27 micros
+266:1056376:R 1056376 Query Time: 26 micros
+267:221356:R 221356 Query Time: 26 micros
+268:719470:R 719470 Query Time: 27 micros
+269:672994:R 672994 Query Time: 27 micros
+270:856468:R 856468 Query Time: 27 micros
+271:517182:M  Query Time: 26 micros
+272:12301:R 12301 Query Time: 25 micros
+273:987267:R 987267 Query Time: 25 micros
+274:260907:R 260907 Query Time: 25 micros
+275:792208:R 792208 Query Time: 25 micros
+276:407953:R 407953 Query Time: 26 micros
+277:122984:M  Query Time: 25 micros
+278:547737:R 547737 Query Time: 28 micros
+279:152369:R 152369 Query Time: 26 micros
+280:807358:M  Query Time: 24 micros
+281:431119:R 431119 Query Time: 27 micros
+282:525500:M  Query Time: 26 micros
+283:1156960:R 1156960 Query Time: 25 micros
+284:886203:R 886203 Query Time: 26 micros
+285:1154209:R 1154209 Query Time: 26 micros
+286:161235:R 161235 Query Time: 26 micros
+287:931242:R 737283	375088	931242 Query Time: 26 micros
+288:185409:R 185409 Query Time: 26 micros
+289:243333:R 243333 Query Time: 27 micros
+290:1306750:R 1306750 Query Time: 27 micros
+291:790013:R 790013 Query Time: 26 micros
+292:1257309:R 1257309 Query Time: 26 micros
+293:996569:R 996569 Query Time: 28 micros
+294:810976:R 810976 Query Time: 25 micros
+295:142717:R 142717 Query Time: 143 micros
+296:636582:R 636582 Query Time: 27 micros
+297:1268356:M  Query Time: 24 micros
+298:1065310:R 1065310 Query Time: 26 micros
+299:508302:M 1220068	345233	1287590 Query Time: 26 micros
+300:1157472:R 1157472 Query Time: 28 micros
+301:213550:R 213550 Query Time: 27 micros
+302:631010:R 631010 Query Time: 27 micros
+303:869341:R 869341 Query Time: 26 micros
+304:935006:R 935006 Query Time: 28 micros
+305:792083:R 792083 Query Time: 27 micros
+306:561450:M  Query Time: 25 micros
+307:875374:M  Query Time: 25 micros
+308:1395821:R 1395821 Query Time: 27 micros
+309:384678:M 384678 Query Time: 26 micros
+310:1025257:R 1025257 Query Time: 26 micros
+311:1034605:R 1034605 Query Time: 25 micros
+312:114501:R 114501 Query Time: 26 micros
+313:401190:R 401190 Query Time: 27 micros
+314:1017989:R 1017989 Query Time: 27 micros
+315:449209:R 449209 Query Time: 27 micros
+316:1050568:R 1050568 Query Time: 41 micros
+317:1279302:R 1279302 Query Time: 27 micros
+318:1161450:R 1161450 Query Time: 25 micros
+319:1098492:R 1098492 Query Time: 26 micros
+320:1128768:R 1128768 Query Time: 26 micros
+321:417139:R 417139	87918 Query Time: 26 micros
+322:1186147:R 1186147 Query Time: 26 micros
+323:572782:R 572782 Query Time: 30 micros
+324:453569:R 453569 Query Time: 25 micros
+325:1084092:R 1084092 Query Time: 26 micros
+326:1125621:R 1125621 Query Time: 26 micros
+327:36736:R 36736 Query Time: 27 micros
+328:1122508:R 1122508 Query Time: 27 micros
+329:1222083:R 1222083 Query Time: 25 micros
+330:1197764:R 1197764 Query Time: 28 micros
+331:1306734:R 1306734 Query Time: 26 micros
+332:292679:R 292679 Query Time: 25 micros
+333:141514:R 141514 Query Time: 25 micros
+334:806421:R 806421 Query Time: 27 micros
+335:737302:R 737302 Query Time: 27 micros
+336:793515:R 793515 Query Time: 26 micros
+337:1230432:R 1230432 Query Time: 27 micros
+338:633298:R 633298 Query Time: 27 micros
+339:602787:R 602787 Query Time: 25 micros
+340:1068629:R 1068629 Query Time: 27 micros
+341:1183320:R 1183320 Query Time: 25 micros
+342:1327822:R 1327822	1366508	1123962 Query Time: 27 micros
+343:710920:R 710920 Query Time: 25 micros
+344:886114:R 886114 Query Time: 28 micros
+345:1227457:R 1227457 Query Time: 26 micros
+346:1051888:M  Query Time: 26 micros
+347:135106:R 135106 Query Time: 26 micros
+348:1333047:R 1333047 Query Time: 26 micros
+349:1304829:R 1304829 Query Time: 26 micros
+350:122925:R 122925 Query Time: 27 micros
+351:828040:R 828040 Query Time: 25 micros
+352:443236:R 443236 Query Time: 28 micros
+353:405120:R 405120 Query Time: 26 micros
+354:939504:R 939504 Query Time: 26 micros
+355:82522:R 82522 Query Time: 26 micros
+356:1176273:R 1176273 Query Time: 30 micros
+357:1309349:R 1309349 Query Time: 26 micros
+358:427648:R 427648 Query Time: 25 micros
+359:956461:R 956461 Query Time: 26 micros
+360:1285939:R 1285939 Query Time: 27 micros
+361:684195:R 684195 Query Time: 26 micros
+362:1057727:R 1057727 Query Time: 27 micros
+363:275715:R 275715 Query Time: 26 micros
+364:974043:R 974043 Query Time: 25 micros
+365:629336:R 629336 Query Time: 26 micros
+366:1317829:R 1317829 Query Time: 26 micros
+367:162240:R 162240 Query Time: 27 micros
+368:498963:M  Query Time: 25 micros
+369:1185078:R 1185078 Query Time: 26 micros
+370:1266241:R 1266241 Query Time: 26 micros
+371:866995:M  Query Time: 25 micros
+372:1242501:R 1242501 Query Time: 23 micros
+373:776639:M 776639 Query Time: 28 micros
+374:692534:R 692534 Query Time: 26 micros
+375:1291901:R 1291901 Query Time: 27 micros
+376:4853:R 4853 Query Time: 30 micros
+377:563937:R 563937 Query Time: 27 micros
+378:283725:R 283725 Query Time: 25 micros
+379:1159416:R 1159416 Query Time: 26 micros
+380:570190:M  Query Time: 26 micros
+381:82212:R 82212 Query Time: 26 micros
+382:707458:R 707458 Query Time: 28 micros
+383:870305:R 870305 Query Time: 26 micros
+384:1027035:R 1027035 Query Time: 27 micros
+385:639271:R 639271 Query Time: 27 micros
+386:470020:R 470020 Query Time: 26 micros
+387:1251199:R 1251199 Query Time: 25 micros
+388:802088:R 802088 Query Time: 25 micros
+389:203522:R 203522 Query Time: 26 micros
+390:329037:M  Query Time: 24 micros
+391:944820:R 944820 Query Time: 25 micros
+392:218934:R 218934 Query Time: 26 micros
+393:436805:R 436805 Query Time: 26 micros
+394:682089:R 682089 Query Time: 26 micros
+395:185277:R 185277 Query Time: 26 micros
+396:487461:R 487461 Query Time: 25 micros
+397:561159:R 561159 Query Time: 26 micros
+398:339397:R 339397 Query Time: 26 micros
+399:1088463:R 1088463 Query Time: 26 micros
+400:814438:R 814438 Query Time: 26 micros
+401:596105:R 596105 Query Time: 27 micros
+402:427150:M  Query Time: 25 micros
+403:229142:R 229142 Query Time: 26 micros
+404:404691:R 404691 Query Time: 27 micros
+405:827015:R 827015 Query Time: 27 micros
+406:1013013:R 1013013 Query Time: 25 micros
+407:868930:R 868930 Query Time: 27 micros
+408:1081171:M 1081171 Query Time: 23 micros
+409:1095475:R 1095475 Query Time: 27 micros
+410:669772:M 669772 Query Time: 25 micros
+411:1388656:R 1388656 Query Time: 27 micros
+412:336416:R 336416 Query Time: 26 micros
+413:711386:R 711386 Query Time: 26 micros
+414:130851:R 130851 Query Time: 25 micros
+415:125998:R 125998 Query Time: 26 micros
+416:1001573:R 1001573 Query Time: 26 micros
+417:1046062:R 1046062 Query Time: 26 micros
+418:1169668:R 1169668 Query Time: 26 micros
+419:19487:R 19487 Query Time: 26 micros
+420:287454:R 287454 Query Time: 26 micros
+421:1276648:R 1276648 Query Time: 26 micros
+422:850956:R 850956 Query Time: 26 micros
+423:1080806:R 1080806 Query Time: 39 micros
+424:1188233:M  Query Time: 25 micros
+425:212108:R 212108 Query Time: 24 micros
+426:1344597:R 1344597 Query Time: 26 micros
+427:1024454:R 1024454 Query Time: 26 micros
+428:494250:R 494250 Query Time: 24 micros
+429:595799:M 595799 Query Time: 25 micros
+430:918177:R 918177 Query Time: 26 micros
+431:201683:R 201683 Query Time: 26 micros
+432:1125578:R 1125578 Query Time: 25 micros
+433:584469:R 584469 Query Time: 26 micros
+434:218676:R 218676 Query Time: 27 micros
+435:233192:R 233192 Query Time: 25 micros
+436:616094:R 616094 Query Time: 26 micros
+437:356876:R 356876 Query Time: 26 micros
+438:371425:R 371425 Query Time: 26 micros
+439:984521:R 984521 Query Time: 26 micros
+440:172943:R 172943 Query Time: 25 micros
+441:209448:R 209448 Query Time: 26 micros
+442:521114:R 521114 Query Time: 26 micros
+443:724422:R 724422 Query Time: 26 micros
+444:764698:R 764698 Query Time: 26 micros
+445:1386879:R 1386879 Query Time: 25 micros
+446:1362814:R 1362814 Query Time: 27 micros
+447:244426:R 244426 Query Time: 25 micros
+448:553709:R 553709 Query Time: 93 micros
+449:597154:R 597154 Query Time: 26 micros
+450:353344:R 353344 Query Time: 26 micros
+451:949695:R 949695 Query Time: 26 micros
+452:1188948:R 1188948 Query Time: 25 micros
+453:241359:M  Query Time: 25 micros
+454:674369:R 674369 Query Time: 26 micros
+455:375904:M  Query Time: 25 micros
+456:684386:M  Query Time: 26 micros
+457:1141895:R 1141895 Query Time: 26 micros
+458:498593:R 498593 Query Time: 26 micros
+459:1060853:R 1060853 Query Time: 24 micros
+460:880051:R 880051 Query Time: 26 micros
+461:666289:R 666289 Query Time: 25 micros
+462:439890:M  Query Time: 25 micros
+463:462091:R 462091	1038610 Query Time: 31 micros
+464:1046559:R 1046559 Query Time: 26 micros
+465:1002546:R 1002546 Query Time: 25 micros
+466:353349:R 353349 Query Time: 36 micros
+467:660220:R 660220 Query Time: 27 micros
+468:1250398:R 1250398 Query Time: 26 micros
+469:173832:R 173832 Query Time: 26 micros
+470:937507:R 937507 Query Time: 26 micros
+471:1352772:R 1352772 Query Time: 27 micros
+472:1271678:R 1271678 Query Time: 25 micros
+473:575331:R 575331 Query Time: 25 micros
+474:51710:R 51710 Query Time: 26 micros
+475:1088967:R 1088967 Query Time: 26 micros
+476:1113421:M  Query Time: 24 micros
+477:452007:R 452007 Query Time: 27 micros
+478:1359778:R 1359778 Query Time: 26 micros
+479:291777:R 291777 Query Time: 26 micros
+480:731945:R 731945 Query Time: 32 micros
+481:100622:R 100622 Query Time: 28 micros
+482:702855:R 702855 Query Time: 31 micros
+483:252462:R 252462 Query Time: 32 micros
+484:431690:R 431690 Query Time: 39 micros
+485:799813:R 799813 Query Time: 28 micros
+486:486640:R 486640 Query Time: 28 micros
+487:350889:M  Query Time: 26 micros
+488:292013:R 292013	779079 Query Time: 53 micros
+489:399818:R 399818 Query Time: 26 micros
+490:788847:R 788847 Query Time: 26 micros
+491:1084431:R 1084431 Query Time: 27 micros
+492:103139:R 103139 Query Time: 27 micros
+493:52594:R 52594 Query Time: 26 micros
+494:942341:R 942341 Query Time: 26 micros
+495:667290:M  Query Time: 26 micros
+496:440182:R 440182 Query Time: 26 micros
+497:654735:R 654735 Query Time: 27 micros
+498:1290217:M  Query Time: 27 micros
+499:874259:R 874259 Query Time: 26 micros
+500:176696:R 176696 Query Time: 26 micros
+501:708879:R 708879 Query Time: 28 micros
+502:772292:R 772292 Query Time: 27 micros
+503:581604:R 581604 Query Time: 27 micros
+504:1235364:R 1235364 Query Time: 25 micros
+505:1288717:R 1288717 Query Time: 26 micros
+506:930778:R 930778 Query Time: 25 micros
+507:1033010:R 1033010 Query Time: 27 micros
+508:798900:R 798900 Query Time: 32 micros
+509:9189:R 9189 Query Time: 27 micros
+510:38779:R 38779 Query Time: 26 micros
+511:383321:R 383321 Query Time: 26 micros
+512:1337487:R 1337487 Query Time: 27 micros
+513:1174566:R 1174566 Query Time: 26 micros
+514:573127:R 573127 Query Time: 26 micros
+515:282838:R 282838 Query Time: 27 micros
+516:786979:R 786979 Query Time: 27 micros
+517:744001:R 744001 Query Time: 25 micros
+518:1367847:M  Query Time: 25 micros
+519:573780:R 573780 Query Time: 26 micros
+520:293147:M  Query Time: 24 micros
+521:32231:R 32231 Query Time: 26 micros
+522:425429:R 425429 Query Time: 26 micros
+523:589702:M  Query Time: 27 micros
+524:114832:R 114832 Query Time: 27 micros
+525:1107071:R 1107071 Query Time: 26 micros
+526:474546:R 474546 Query Time: 26 micros
+527:370092:R 370092 Query Time: 27 micros
+528:1644:R 1644 Query Time: 25 micros
+529:1111455:R 1111455 Query Time: 27 micros
+530:1378224:R 1378224 Query Time: 26 micros
+531:1323564:M  Query Time: 25 micros
+532:346535:M  Query Time: 25 micros
+533:1114863:R 1114863 Query Time: 26 micros
+534:361084:R 361084 Query Time: 27 micros
+535:136444:R 136444	891957	1012479	1023350	1046875	408176 Query Time: 27 micros
+536:1188738:R 1188738 Query Time: 26 micros
+537:438305:R 438305 Query Time: 25 micros
+538:941682:R 941682 Query Time: 28 micros
+539:569146:R 569146 Query Time: 25 micros
+540:399422:R 399422 Query Time: 27 micros
+541:56444:R 56444 Query Time: 28 micros
+542:20322:R 20322 Query Time: 28 micros
+543:1060545:R 1060545 Query Time: 26 micros
+544:467484:R 467484 Query Time: 26 micros
+545:1352583:M  Query Time: 26 micros
+546:956683:R 956683 Query Time: 26 micros
+547:458976:R 458976 Query Time: 26 micros
+548:668726:R 668726 Query Time: 26 micros
+549:171984:M  Query Time: 26 micros
+550:48603:R 48603 Query Time: 26 micros
+551:3750:R 3750 Query Time: 26 micros
+552:192675:R 192675 Query Time: 25 micros
+553:960208:R 960208 Query Time: 26 micros
+554:279044:R 279044	510370 Query Time: 27 micros
+555:285857:R 285857 Query Time: 27 micros
+556:325591:R 325591 Query Time: 24 micros
+557:789652:R 789652 Query Time: 26 micros
+558:216101:R 216101 Query Time: 26 micros
+559:1298873:R 939920	1009377	1189191	1298873 Query Time: 29 micros
+560:1215657:R 1215657 Query Time: 28 micros
+561:156628:R 156628 Query Time: 27 micros
+562:43471:M  Query Time: 25 micros
+563:525131:R 525131 Query Time: 28 micros
+564:1391890:R 1391890 Query Time: 27 micros
+565:148473:M  Query Time: 26 micros
+566:1247295:R 1247295 Query Time: 26 micros
+567:770065:R 770065 Query Time: 26 micros
+568:1271468:R 1271468 Query Time: 26 micros
+569:1096467:R 1096467 Query Time: 26 micros
+570:655237:R 655237 Query Time: 26 micros
+571:593908:R 593908 Query Time: 43 micros
+572:730383:R 730383 Query Time: 27 micros
+573:482223:R 482223 Query Time: 25 micros
+574:486382:R 486382 Query Time: 27 micros
+575:1170613:R 1170613 Query Time: 25 micros
+576:172436:R 172436 Query Time: 25 micros
+577:1024841:R 1024841 Query Time: 27 micros
+578:1363460:R 1363460 Query Time: 27 micros
+579:1357408:R 1357408	1089253 Query Time: 86 micros
+580:866540:R 866540 Query Time: 27 micros
+581:1340980:R 1340980 Query Time: 26 micros
+582:214901:R 214901 Query Time: 26 micros
+583:1315674:R 1315674 Query Time: 28 micros
+584:67780:R 67780 Query Time: 26 micros
+585:854848:R 854848 Query Time: 33 micros
+586:593892:R 891982	438282	1286842	783260	593892 Query Time: 62 micros
+587:52801:M  Query Time: 26 micros
+588:565415:M  Query Time: 23 micros
+589:837814:R 837814 Query Time: 25 micros
+590:285:R 285 Query Time: 27 micros
+591:217145:R 217145 Query Time: 27 micros
+592:23537:R 23537 Query Time: 26 micros
+593:148330:M  Query Time: 26 micros
+594:682345:R 682345 Query Time: 26 micros
+595:920978:M  Query Time: 26 micros
+596:122868:R 122868 Query Time: 27 micros
+597:831230:R 831230 Query Time: 27 micros
+598:343641:R 343641 Query Time: 27 micros
+599:649033:R 649033 Query Time: 25 micros
+600:947791:R 947791 Query Time: 27 micros
+601:39027:R 39027 Query Time: 26 micros
+602:813917:R 813917 Query Time: 36 micros
+603:303370:R 303370 Query Time: 26 micros
+604:327120:R 327120 Query Time: 27 micros
+605:316197:R 316197 Query Time: 25 micros
+606:228408:R 835931	736121	228408 Query Time: 36 micros
+607:1284827:R 1284827 Query Time: 27 micros
+608:1259002:M  Query Time: 25 micros
+609:629705:R 629705 Query Time: 27 micros
+610:1291685:R 1291685 Query Time: 26 micros
+611:978156:R 978156 Query Time: 26 micros
+612:1371011:R 1371011 Query Time: 25 micros
+613:382560:R 382560 Query Time: 28 micros
+614:1299699:R 1299699 Query Time: 26 micros
+615:138822:R 138822 Query Time: 27 micros
+616:223273:R 223273 Query Time: 26 micros
+617:307527:R 307527 Query Time: 26 micros
+618:1120625:R 1120625 Query Time: 27 micros
+619:1081438:R 1081438 Query Time: 26 micros
+620:119433:R 119433 Query Time: 26 micros
+621:330093:R 330093 Query Time: 27 micros
+622:715565:R 715565 Query Time: 26 micros
+623:980257:R 980257 Query Time: 26 micros
+624:41281:R 41281 Query Time: 27 micros
+625:608016:R 608016 Query Time: 26 micros
+626:985456:R 985456 Query Time: 25 micros
+627:271074:R 271074 Query Time: 33 micros
+628:857484:R 857484 Query Time: 26 micros
+629:652323:R 652323 Query Time: 27 micros
+630:442524:R 442524 Query Time: 27 micros
+631:748308:R 748308	394159 Query Time: 27 micros
+632:762172:R 762172 Query Time: 25 micros
+633:372001:R 372001 Query Time: 26 micros
+634:183041:R 183041 Query Time: 26 micros
+635:129615:R 129615 Query Time: 24 micros
+636:872952:R 872952 Query Time: 27 micros
+637:634737:R 634737 Query Time: 27 micros
+638:1363660:R 1363660 Query Time: 26 micros
+639:1139980:R 1139980 Query Time: 26 micros
+640:1108363:R 1108363 Query Time: 26 micros
+641:1221929:M  Query Time: 23 micros
+642:99940:R 99940 Query Time: 31 micros
+643:936573:R 936573 Query Time: 28 micros
+644:321203:R 321203 Query Time: 27 micros
+645:249775:R 249775 Query Time: 26 micros
+646:918628:R 918628 Query Time: 27 micros
+647:225510:R 225510 Query Time: 28 micros
+648:167206:R 167206 Query Time: 25 micros
+649:236690:R 236690 Query Time: 27 micros
+650:74746:R 74746 Query Time: 27 micros
+651:1253538:R 1253538 Query Time: 27 micros
+652:119144:R 119144 Query Time: 30 micros
+653:486747:R 486747 Query Time: 26 micros
+654:1320008:R 1320008 Query Time: 25 micros
+655:816627:R 816627 Query Time: 27 micros
+656:901547:R 901547 Query Time: 27 micros
+657:785966:R 785966 Query Time: 27 micros
+658:710864:M  Query Time: 25 micros
+659:934495:R 934495 Query Time: 27 micros
+660:1348614:R 1348614 Query Time: 28 micros
+661:938638:R 938638 Query Time: 26 micros
+662:615837:M  Query Time: 25 micros
+663:1081755:R 1081755 Query Time: 26 micros
+664:1179305:R 1179305 Query Time: 29 micros
+665:299400:M  Query Time: 24 micros
+666:1220425:R 1220425 Query Time: 25 micros
+667:838435:R 838435 Query Time: 26 micros
+668:478871:R 478871 Query Time: 27 micros
+669:45908:R 45908 Query Time: 25 micros
+670:150067:R 150067 Query Time: 26 micros
+671:1107940:R 1107940 Query Time: 24 micros
+672:360720:R 360720 Query Time: 27 micros
+673:1241368:R 1241368 Query Time: 36 micros
+674:415066:R 415066 Query Time: 26 micros
+675:934204:R 934204 Query Time: 27 micros
+676:277677:M  Query Time: 24 micros
+677:653168:R 653168 Query Time: 26 micros
+678:298543:R 298543 Query Time: 43 micros
+679:1034969:R 1034969 Query Time: 27 micros
+680:402101:R 402101 Query Time: 29 micros
+681:320485:M  Query Time: 26 micros
+682:441953:R 441953 Query Time: 26 micros
+683:7424:R 7424 Query Time: 26 micros
+684:1345330:R 1345330 Query Time: 25 micros
+685:669161:R 669161 Query Time: 26 micros
+686:1266880:R 1266880 Query Time: 26 micros
+687:493488:M 493488 Query Time: 27 micros
+688:300007:R 300007 Query Time: 27 micros
+689:298080:R 298080 Query Time: 27 micros
+690:1131487:R 1131487 Query Time: 26 micros
+691:741378:R 741378 Query Time: 101 micros
+692:337855:R 337855 Query Time: 27 micros
+693:632692:R 632692 Query Time: 26 micros
+694:35198:R 35198 Query Time: 27 micros
+695:60724:M  Query Time: 24 micros
+696:1022787:R 1022787 Query Time: 26 micros
+697:1148908:R 1148908 Query Time: 26 micros
+698:118037:R 118037 Query Time: 27 micros
+699:716925:M  Query Time: 25 micros
+700:461171:R 461171 Query Time: 37 micros
+701:126333:R 126333 Query Time: 28 micros
+702:560980:R 560980 Query Time: 25 micros
+703:1003530:M  Query Time: 25 micros
+704:1317106:R 1317106 Query Time: 26 micros
+705:1174116:R 1174116 Query Time: 26 micros
+706:92919:R 92919 Query Time: 28 micros
+707:28420:R 28420 Query Time: 26 micros
+708:867451:R 867451 Query Time: 27 micros
+709:258697:R 258697 Query Time: 27 micros
+710:1094315:R 1094315 Query Time: 26 micros
+711:124772:R 124772 Query Time: 26 micros
+712:1324494:R 1324494 Query Time: 25 micros
+713:151332:R 151332 Query Time: 25 micros
+714:1086299:R 1086299 Query Time: 26 micros
+715:1152864:R 1152864 Query Time: 25 micros
+716:473475:R 473475 Query Time: 25 micros
+717:1020624:M  Query Time: 25 micros
+718:678185:R 678185 Query Time: 27 micros
+719:344717:R 344717 Query Time: 26 micros
+720:1338234:R 1338234 Query Time: 29 micros
+721:228728:R 156579	228728 Query Time: 28 micros
+722:1321271:R 1321271 Query Time: 26 micros
+723:1052795:R 1052795 Query Time: 27 micros
+724:1227405:R 1227405 Query Time: 26 micros
+725:83237:R 83237 Query Time: 26 micros
+726:1005291:R 1005291 Query Time: 27 micros
+727:708048:R 708048 Query Time: 26 micros
+728:605248:R 605248 Query Time: 27 micros
+729:1073977:M  Query Time: 23 micros
+730:1050582:M  Query Time: 25 micros
+731:670455:R 670455 Query Time: 26 micros
+732:921057:R 921057 Query Time: 25 micros
+733:907100:R 907100 Query Time: 26 micros
+734:1110517:R 1110517 Query Time: 27 micros
+735:879664:R 879664 Query Time: 25 micros
+736:172375:M  Query Time: 27 micros
+737:708838:R 708838 Query Time: 27 micros
+738:943696:R 943696 Query Time: 28 micros
+739:1023580:R 1023580 Query Time: 27 micros
+740:1299063:R 1299063 Query Time: 26 micros
+741:1295704:R 1295704 Query Time: 25 micros
+742:334688:R 334688 Query Time: 28 micros
+743:917770:M  Query Time: 25 micros
+744:247213:R 247213 Query Time: 41 micros
+745:1130306:M  Query Time: 25 micros
+746:1129591:R 1129591 Query Time: 28 micros
+747:981627:M 981627 Query Time: 26 micros
+748:847197:R 847197 Query Time: 27 micros
+749:296013:R 296013 Query Time: 27 micros
+750:1147689:R 1147689 Query Time: 26 micros
+751:1393439:M  Query Time: 24 micros
+752:611155:R 611155 Query Time: 26 micros
+753:877211:R 877211 Query Time: 28 micros
+754:92676:R 92676 Query Time: 26 micros
+755:1380048:R 1380048 Query Time: 27 micros
+756:52304:R 52304 Query Time: 26 micros
+757:1367936:R 800919	245734	1367936	753200 Query Time: 28 micros
+758:338840:R 338840 Query Time: 28 micros
+759:1276954:R 1276954 Query Time: 24 micros
+760:170881:R 170881 Query Time: 26 micros
+761:569527:R 569527 Query Time: 27 micros
+762:581678:M  Query Time: 25 micros
+763:845978:R 845978 Query Time: 28 micros
+764:329500:R 329500 Query Time: 26 micros
+765:37913:R 37913 Query Time: 28 micros
+766:1019811:R 1019811 Query Time: 27 micros
+767:1293396:R 1293396 Query Time: 28 micros
+768:764248:R 764248 Query Time: 26 micros
+769:637145:R 637145 Query Time: 25 micros
+770:293205:R 293205 Query Time: 26 micros
+771:469175:M  Query Time: 75 micros
+772:130230:M  Query Time: 24 micros
+773:1288067:R 1288067 Query Time: 26 micros
+774:1118786:R 1118786 Query Time: 27 micros
+775:822482:R 822482 Query Time: 27 micros
+776:782622:R 782622 Query Time: 27 micros
+777:131466:M  Query Time: 26 micros
+778:1225146:R 1225146 Query Time: 25 micros
+779:1373676:R 1373676 Query Time: 26 micros
+780:583804:R 583804 Query Time: 27 micros
+781:102816:R 1304164	297534	102816 Query Time: 32 micros
+782:339000:R 339000 Query Time: 26 micros
+783:90833:R 90833 Query Time: 26 micros
+784:531870:R 531870 Query Time: 26 micros
+785:94473:R 94473 Query Time: 30 micros
+786:1085011:R 1085011	149544 Query Time: 93 micros
+787:791140:R 791140 Query Time: 28 micros
+788:1073777:R 1073777 Query Time: 26 micros
+789:89826:R 89826 Query Time: 27 micros
+790:231393:R 231393 Query Time: 25 micros
+791:388910:M  Query Time: 24 micros
+792:806700:M 99937	1078610 Query Time: 28 micros
+793:1387921:R 1387921 Query Time: 25 micros
+794:302134:R 302134 Query Time: 26 micros
+795:688433:R 688433 Query Time: 29 micros
+796:472100:R 27770	681270	472100 Query Time: 38 micros
+797:555212:R 555212 Query Time: 27 micros
+798:588898:R 588898 Query Time: 26 micros
+799:29281:R 29281	493602 Query Time: 27 micros
+800:295022:R 295022 Query Time: 27 micros
+801:268159:M  Query Time: 23 micros
+802:613650:R 613650	1172800 Query Time: 54 micros
+803:161555:R 161555 Query Time: 27 micros
+804:260933:R 260933 Query Time: 25 micros
+805:862665:R 862665 Query Time: 25 micros
+806:89702:R 89702 Query Time: 26 micros
+807:317269:R 317269 Query Time: 26 micros
+808:615050:R 615050 Query Time: 24 micros
+809:533364:R 533364 Query Time: 25 micros
+810:1076938:R 1076938 Query Time: 28 micros
+811:957178:R 957178 Query Time: 25 micros
+812:1061608:R 1061608 Query Time: 25 micros
+813:1101308:R 1101308 Query Time: 25 micros
+814:1047098:R 1047098 Query Time: 27 micros
+815:25501:R 25501 Query Time: 28 micros
+816:523089:M  Query Time: 25 micros
+817:254990:R 254990 Query Time: 25 micros
+818:883583:R 883583 Query Time: 25 micros
+819:667015:R 667015 Query Time: 25 micros
+820:988209:R 988209 Query Time: 25 micros
+821:970059:R 970059 Query Time: 27 micros
+822:141166:R 141166 Query Time: 27 micros
+823:177238:M  Query Time: 25 micros
+824:621526:R 621526 Query Time: 27 micros
+825:1141279:R 1141279	647625 Query Time: 27 micros
+826:1294611:R 1294611 Query Time: 25 micros
+827:795541:R 603121	795541 Query Time: 26 micros
+828:1058139:R 1058139 Query Time: 26 micros
+829:455795:R 455795 Query Time: 25 micros
+830:917611:R 917611 Query Time: 33 micros
+831:13418:R 13418 Query Time: 26 micros
+832:426460:R 426460 Query Time: 25 micros
+833:1175195:R 1175195 Query Time: 25 micros
+834:887894:R 887894 Query Time: 26 micros
+835:97717:R 97717 Query Time: 25 micros
+836:113968:R 113968 Query Time: 27 micros
+837:571489:R 571489 Query Time: 28 micros
+838:183569:R 183569 Query Time: 27 micros
+839:61801:R 61801 Query Time: 32 micros
+840:179689:R 179689 Query Time: 31 micros
+841:578697:R 578697 Query Time: 26 micros
+842:1125797:R 1125797 Query Time: 26 micros
+843:886306:M  Query Time: 24 micros
+844:344283:R 344283 Query Time: 26 micros
+845:1238240:R 1238240 Query Time: 28 micros
+846:207981:R 207981 Query Time: 27 micros
+847:134305:M  Query Time: 25 micros
+848:154263:R 13947	154263 Query Time: 26 micros
+849:813800:R 813800 Query Time: 26 micros
+850:1148079:R 1148079 Query Time: 26 micros
+851:1253903:M  Query Time: 33 micros
+852:727699:R 727699 Query Time: 31 micros
+853:700889:R 700889 Query Time: 27 micros
+854:1372720:R 1372720 Query Time: 25 micros
+855:887866:R 887866 Query Time: 27 micros
+856:574277:R 574277 Query Time: 26 micros
+857:210769:R 210769 Query Time: 25 micros
+858:240045:R 240045 Query Time: 26 micros
+859:612923:R 612923 Query Time: 27 micros
+860:536254:M  Query Time: 25 micros
+861:390345:R 390345 Query Time: 27 micros
+862:750224:R 750224 Query Time: 26 micros
+863:1367833:R 1367833 Query Time: 25 micros
+864:966332:R 1388360	966332 Query Time: 27 micros
+865:695153:R 695153 Query Time: 26 micros
+866:522361:R 522361 Query Time: 26 micros
+867:1297091:R 1297091 Query Time: 24 micros
+868:44825:M  Query Time: 23 micros
+869:1139041:R 1139041 Query Time: 27 micros
+870:1011538:R 1011538 Query Time: 32 micros
+871:464345:R 464345 Query Time: 25 micros
+872:1095432:R 1095432 Query Time: 26 micros
+873:976562:R 976562 Query Time: 26 micros
+874:530346:R 530346 Query Time: 27 micros
+875:1123838:R 1123838 Query Time: 27 micros
+876:357815:R 357815 Query Time: 25 micros
+877:883990:R 883990 Query Time: 26 micros
+878:1259500:R 1259500 Query Time: 26 micros
+879:63004:R 63004 Query Time: 25 micros
+880:781953:R 781953 Query Time: 25 micros
+881:1347861:R 1347861 Query Time: 26 micros
+882:1361027:R 1361027 Query Time: 25 micros
+883:505626:R 505626 Query Time: 26 micros
+884:194932:R 194932 Query Time: 26 micros
+885:556843:R 556843 Query Time: 21 micros
+886:1312217:R 1312217 Query Time: 26 micros
+887:171986:R 171986 Query Time: 26 micros
+888:1316859:R 1316859 Query Time: 25 micros
+889:187397:R 187397	93190 Query Time: 27 micros
+890:207378:R 207378 Query Time: 26 micros
+891:175163:R 175163 Query Time: 26 micros
+892:792181:R 792181 Query Time: 28 micros
+893:460785:R 460785 Query Time: 25 micros
+894:634917:R 634917 Query Time: 26 micros
+895:628517:R 628517 Query Time: 25 micros
+896:107339:R 107339 Query Time: 25 micros
+897:604664:M 560555	356980	386257 Query Time: 29 micros
+898:1189838:R 1189838 Query Time: 26 micros
+899:1043624:M  Query Time: 25 micros
+900:1313609:R 1155230	1313609 Query Time: 26 micros
+901:181172:R 181172 Query Time: 26 micros
+902:1059666:R 1059666 Query Time: 23 micros
+903:182458:R 182458 Query Time: 31 micros
+904:164808:R 164808 Query Time: 27 micros
+905:357107:R 357107 Query Time: 26 micros
+906:705673:R 705673 Query Time: 25 micros
+907:355765:R 355765 Query Time: 25 micros
+908:164655:R 164655 Query Time: 26 micros
+909:706557:R 706557 Query Time: 26 micros
+910:956751:R 956751 Query Time: 25 micros
+911:863563:R 863563 Query Time: 26 micros
+912:682793:R 682793 Query Time: 27 micros
+913:351031:R 351031 Query Time: 26 micros
+914:871643:R 871643 Query Time: 27 micros
+915:1044351:R 1044351 Query Time: 26 micros
+916:200513:R 200513 Query Time: 25 micros
+917:658622:M  Query Time: 25 micros
+918:1084091:R 1084091 Query Time: 26 micros
+919:342860:R 342860 Query Time: 26 micros
+920:112174:R 112174 Query Time: 26 micros
+921:197598:R 197598 Query Time: 27 micros
+922:1212483:R 1212483 Query Time: 25 micros
+923:461683:R 461683 Query Time: 26 micros
+924:872614:R 872614 Query Time: 26 micros
+925:965190:R 965190 Query Time: 27 micros
+926:203687:M  Query Time: 25 micros
+927:330312:R 330312 Query Time: 26 micros
+928:575633:R 575633 Query Time: 25 micros
+929:79854:R 79854 Query Time: 25 micros
+930:1127926:R 1127926 Query Time: 30 micros
+931:32619:M  Query Time: 24 micros
+932:365464:M  Query Time: 31 micros
+933:705747:R 705747 Query Time: 28 micros
+934:544527:R 544527 Query Time: 26 micros
+935:1054332:M  Query Time: 25 micros
+936:1095755:R 1095755 Query Time: 26 micros
+937:2059:R 2059 Query Time: 25 micros
+938:1166541:R 1166541 Query Time: 26 micros
+939:221587:R 221587 Query Time: 26 micros
+940:132627:M  Query Time: 27 micros
+941:716609:R 716609 Query Time: 25 micros
+942:1241882:R 1241882 Query Time: 27 micros
+943:466710:R 466710 Query Time: 27 micros
+944:453805:R 453805 Query Time: 26 micros
+945:184770:R 184770 Query Time: 25 micros
+946:217169:R 217169 Query Time: 27 micros
+947:690979:M  Query Time: 25 micros
+948:345474:R 345474 Query Time: 22 micros
+949:200482:M  Query Time: 24 micros
+950:575834:R 575834 Query Time: 26 micros
+951:910153:R 910153 Query Time: 27 micros
+952:702010:R 702010 Query Time: 27 micros
+953:1216973:R 1216973 Query Time: 27 micros
+954:359202:R 359202 Query Time: 24 micros
+955:1204829:R 1204829 Query Time: 24 micros
+956:342143:R 342143 Query Time: 28 micros
+957:103565:R 103565 Query Time: 27 micros
+958:1362373:R 1362373 Query Time: 27 micros
+959:122283:R 122283 Query Time: 24 micros
+960:469937:R 469937 Query Time: 26 micros
+961:931134:R 931134 Query Time: 25 micros
+962:1112175:R 1112175 Query Time: 27 micros
+963:65656:R 65656 Query Time: 27 micros
+964:696663:R 696663 Query Time: 28 micros
+965:742175:R 742175 Query Time: 26 micros
+966:1283227:R 1283227 Query Time: 26 micros
+967:329020:R 329020 Query Time: 26 micros
+968:87402:R 87402 Query Time: 26 micros
+969:1375349:R 1375349 Query Time: 27 micros
+970:1193962:R 1193962 Query Time: 27 micros
+971:495487:R 495487 Query Time: 27 micros
+972:343423:R 343423 Query Time: 24 micros
+973:390853:R 390853 Query Time: 25 micros
+974:222833:R 222833 Query Time: 28 micros
+975:1236741:R 1236741 Query Time: 26 micros
+976:74626:R 74626 Query Time: 27 micros
+977:512508:R 512508 Query Time: 26 micros
+978:858255:M  Query Time: 26 micros
+979:897422:R 897422 Query Time: 26 micros
+980:837842:R 837842 Query Time: 27 micros
+981:230163:R 230163 Query Time: 26 micros
+982:1381969:R 1381969 Query Time: 26 micros
+983:349298:R 349298 Query Time: 26 micros
+984:693024:R 693024 Query Time: 25 micros
+985:1132980:R 1132980 Query Time: 26 micros
+986:747782:R 747782 Query Time: 26 micros
+987:973711:R 973711 Query Time: 25 micros
+988:333076:R 333076 Query Time: 25 micros
+989:619012:M  Query Time: 26 micros
+990:1010113:R 1010113 Query Time: 25 micros
+991:236138:R 236138 Query Time: 26 micros
+992:750054:R 750054 Query Time: 27 micros
+993:726737:R 726737 Query Time: 26 micros
+994:590504:R 590504 Query Time: 27 micros
+995:866827:R 866827 Query Time: 26 micros
+996:455230:R 244583	455230 Query Time: 40 micros
+997:544905:R 544905 Query Time: 26 micros
+998:194789:R 194789 Query Time: 26 micros
+999:135064:R 135064 Query Time: 24 micros
+1000:298354:R 298354 Query Time: 26 micros
+1001:84305:R 84305 Query Time: 34 micros
+1002:590606:R 590606 Query Time: 27 micros
+1003:950922:R 950922 Query Time: 27 micros
+1004:487207:R 487207 Query Time: 43 micros
+1005:298604:R 298604 Query Time: 26 micros
+1006:639259:R 639259 Query Time: 25 micros
+1007:258968:R 258968 Query Time: 26 micros
+1008:924573:R 924573 Query Time: 43 micros
+1009:1061427:M  Query Time: 26 micros
+1010:685093:R 685093 Query Time: 27 micros
+1011:1354403:R 1354403 Query Time: 26 micros
+1012:481279:R 481279 Query Time: 35 micros
+1013:1101634:R 1101634 Query Time: 24 micros
+1014:192194:R 192194 Query Time: 23 micros
+1015:343123:R 343123 Query Time: 26 micros
+1016:721315:R 721315 Query Time: 29 micros
+1017:614276:R 614276 Query Time: 26 micros
+1018:203227:R 203227 Query Time: 26 micros
+1019:1168696:R 1168696 Query Time: 25 micros
+1020:554756:R 554756 Query Time: 27 micros
+1021:362754:R 362754 Query Time: 25 micros
+1022:1122836:R 1122836 Query Time: 27 micros
+1023:47787:R 47787 Query Time: 31 micros
+1024:841619:M  Query Time: 29 micros
+1025:76149:R 76149 Query Time: 32 micros
+1026:1089962:R 1089962 Query Time: 28 micros
+1027:878379:M  Query Time: 27 micros
+1028:37968:R 37968 Query Time: 25 micros
+1029:431353:R 260490	431353 Query Time: 26 micros
+1030:540488:R 540488 Query Time: 26 micros
+1031:1065726:R 1065726 Query Time: 25 micros
+1032:862619:R 862619 Query Time: 27 micros
+1033:926897:R 926897 Query Time: 23 micros
+1034:707235:R 707235 Query Time: 27 micros
+1035:638692:R 638692 Query Time: 26 micros
+1036:150236:R 150236 Query Time: 37 micros
+1037:55549:R 55549 Query Time: 26 micros
+1038:693683:R 693683 Query Time: 26 micros
+1039:61104:R 61104 Query Time: 27 micros
+1040:777884:R 777884 Query Time: 27 micros
+1041:832853:R 832853 Query Time: 26 micros
+1042:224391:R 224391 Query Time: 26 micros
+1043:555061:R 555061 Query Time: 26 micros
+1044:402878:M  Query Time: 25 micros
+1045:1209050:R 1209050 Query Time: 26 micros
+1046:1299583:R 1299583 Query Time: 25 micros
+1047:398774:R 398774 Query Time: 28 micros
+1048:725286:R 725286 Query Time: 26 micros
+1049:478059:R 478059 Query Time: 26 micros
+1050:161792:R 161792 Query Time: 26 micros
+1051:890276:R 890276 Query Time: 25 micros
+1052:803443:R 803443 Query Time: 26 micros
+1053:621054:R 621054 Query Time: 49 micros
+1054:1185927:M  Query Time: 24 micros
+1055:1230957:R 1230957 Query Time: 26 micros
+1056:844992:M  Query Time: 25 micros
+1057:246738:R 246738 Query Time: 26 micros
+1058:1370308:R 1370308 Query Time: 25 micros
+1059:947980:R 947980 Query Time: 37 micros
+1060:423119:R 423119 Query Time: 26 micros
+1061:1055780:R 1055780 Query Time: 26 micros
+1062:684128:R 684128 Query Time: 27 micros
+1063:884556:R 884556 Query Time: 26 micros
+1064:1257157:R 1257157 Query Time: 26 micros
+1065:1099257:R 1099257 Query Time: 26 micros
+1066:513058:R 513058 Query Time: 26 micros
+1067:288086:M  Query Time: 38 micros
+1068:263872:R 263872 Query Time: 26 micros
+1069:514676:R 514676 Query Time: 27 micros
+1070:669748:R 669748 Query Time: 26 micros
+1071:410518:M  Query Time: 26 micros
+1072:1113908:R 1113908 Query Time: 26 micros
+1073:538850:R 538850 Query Time: 25 micros
+1074:354939:R 354939 Query Time: 26 micros
+1075:531138:R 531138 Query Time: 29 micros
+1076:662538:M  Query Time: 27 micros
+1077:558600:R 558600 Query Time: 26 micros
+1078:443183:R 443183 Query Time: 26 micros
+1079:1058741:R 1058741 Query Time: 25 micros
+1080:1209512:R 1209512 Query Time: 26 micros
+1081:981269:R 981269 Query Time: 26 micros
+1082:616141:R 616141 Query Time: 26 micros
+1083:1297374:R 1297374 Query Time: 25 micros
+1084:775399:R 775399 Query Time: 26 micros
+1085:106447:R 106447 Query Time: 26 micros
+1086:1186830:R 1186830 Query Time: 28 micros
+1087:109292:R 109292 Query Time: 26 micros
+1088:476129:R 476129 Query Time: 26 micros
+1089:762001:R 762001 Query Time: 26 micros
+1090:213553:R 213553 Query Time: 26 micros
+1091:386359:R 386359 Query Time: 27 micros
+1092:892353:R 892353 Query Time: 25 micros
+1093:282482:R 282482 Query Time: 26 micros
+1094:436496:R 436496 Query Time: 26 micros
+1095:635345:R 635345 Query Time: 27 micros
+1096:1286736:R 1286736 Query Time: 26 micros
+1097:963724:R 963724 Query Time: 26 micros
+1098:10817:R 10817 Query Time: 28 micros
+1099:1198925:R 1198925	1365866 Query Time: 186 micros
+1100:155873:R 155873 Query Time: 26 micros
+1101:233802:R 233802 Query Time: 26 micros
+1102:288144:R 288144 Query Time: 26 micros
+1103:454581:R 454581 Query Time: 25 micros
+1104:1007022:R 1007022 Query Time: 26 micros
+1105:1320174:M  Query Time: 25 micros
+1106:587209:R 587209 Query Time: 26 micros
+1107:592987:R 592987 Query Time: 26 micros
+1108:1370475:M  Query Time: 25 micros
+1109:1389996:R 1389996 Query Time: 25 micros
+1110:1239187:R 1239187 Query Time: 25 micros
+1111:350414:R 350414 Query Time: 27 micros
+1112:143762:R 143762 Query Time: 26 micros
+1113:106781:R 106781 Query Time: 27 micros
+1114:629391:R 629391 Query Time: 26 micros
+1115:12804:R 12804 Query Time: 26 micros
+1116:50838:R 50838 Query Time: 26 micros
+1117:1367628:R 1367628 Query Time: 26 micros
+1118:266389:R 266389 Query Time: 31 micros
+1119:1296338:R 1296338 Query Time: 26 micros
+1120:1104089:R 1104089 Query Time: 25 micros
+1121:1385690:R 1385690 Query Time: 26 micros
+1122:1354855:R 1354855 Query Time: 30 micros
+1123:876676:M  Query Time: 25 micros
+1124:1105034:R 1105034 Query Time: 25 micros
+1125:673755:R 673755 Query Time: 26 micros
+1126:313390:R 313390 Query Time: 26 micros
+1127:517902:R 517902 Query Time: 26 micros
+1128:701162:R 701162 Query Time: 32 micros
+1129:646550:M  Query Time: 25 micros
+1130:559310:R 559310 Query Time: 27 micros
+1131:994447:R 994447 Query Time: 26 micros
+1132:221208:R 1156585	221208 Query Time: 36 micros
+1133:1398152:R 1398152 Query Time: 25 micros
+1134:63815:M  Query Time: 24 micros
+1135:815094:R 815139	815229	815094 Query Time: 30 micros
+1136:963200:R 963200 Query Time: 40 micros
+1137:104959:R 104959 Query Time: 27 micros
+1138:1188587:R 1188587 Query Time: 26 micros
+1139:989253:R 989253 Query Time: 25 micros
+1140:874892:R 874892 Query Time: 25 micros
+1141:1320551:R 1320551 Query Time: 27 micros
+1142:695912:R 695912 Query Time: 25 micros
+1143:870906:R 870906 Query Time: 26 micros
+1144:935852:R 935852 Query Time: 25 micros
+1145:154921:R 154921 Query Time: 27 micros
+1146:511614:R 511614 Query Time: 26 micros
+1147:190551:M  Query Time: 26 micros
+1148:757259:R 757259 Query Time: 25 micros
+1149:606145:R 606145 Query Time: 26 micros
+1150:819481:R 819791	819636	819481 Query Time: 29 micros
+1151:280299:R 280299 Query Time: 25 micros
+1152:148576:R 148576 Query Time: 26 micros
+1153:684953:R 684953 Query Time: 26 micros
+1154:190464:R 190464 Query Time: 26 micros
+1155:1144494:R 1144494 Query Time: 27 micros
+1156:1232793:R 1232793 Query Time: 26 micros
+1157:379129:R 379129 Query Time: 26 micros
+1158:1038165:R 1038165 Query Time: 27 micros
+1159:904281:R 904281 Query Time: 26 micros
+1160:1098711:R 1098711 Query Time: 24 micros
+1161:659808:R 659808 Query Time: 26 micros
+1162:863433:R 863433 Query Time: 25 micros
+1163:100153:R 100153 Query Time: 26 micros
+1164:117117:R 117117 Query Time: 26 micros
+1165:846963:R 846963 Query Time: 26 micros
+1166:1186915:R 1186915 Query Time: 31 micros
+1167:63593:R 63593 Query Time: 25 micros
+1168:349558:R 349558 Query Time: 26 micros
+1169:1063545:R 1063545 Query Time: 25 micros
+1170:1360506:R 1360506 Query Time: 27 micros
+1171:722445:R 722445 Query Time: 25 micros
+1172:1009710:R 1009710 Query Time: 25 micros
+1173:250680:R 250680 Query Time: 27 micros
+1174:781289:R 781289 Query Time: 24 micros
+1175:106679:R 106679 Query Time: 26 micros
+1176:592330:R 592330 Query Time: 26 micros
+1177:833653:R 833653 Query Time: 26 micros
+1178:526301:R 526301 Query Time: 27 micros
+1179:633286:M  Query Time: 24 micros
+1180:250670:R 250670 Query Time: 26 micros
+1181:965710:R 965710	492238 Query Time: 25 micros
+1182:291615:M  Query Time: 24 micros
+1183:757480:R 757480 Query Time: 26 micros
+1184:605688:R 605688 Query Time: 26 micros
+1185:679206:R 679206 Query Time: 25 micros
+1186:747641:R 747641 Query Time: 27 micros
+1187:575904:M  Query Time: 25 micros
+1188:278398:R 278398 Query Time: 26 micros
+1189:51623:R 51623 Query Time: 27 micros
+1190:162094:R 162094 Query Time: 26 micros
+1191:526026:R 526026 Query Time: 26 micros
+1192:1063392:R 1063392 Query Time: 25 micros
+1193:1103112:R 1103112 Query Time: 27 micros
+1194:336268:R 336268 Query Time: 26 micros
+1195:81631:R 81631 Query Time: 26 micros
+1196:449:M  Query Time: 25 micros
+1197:186226:R 186226 Query Time: 26 micros
+1198:1032455:R 1032455 Query Time: 27 micros
+1199:1276424:M  Query Time: 25 micros
+1200:825377:R 825377 Query Time: 25 micros
+1201:817988:R 817988 Query Time: 25 micros
+1202:754957:R 754957 Query Time: 25 micros
+1203:299734:R 236974	652810	299734	641227 Query Time: 27 micros
+1204:1017699:R 1017699 Query Time: 33 micros
+1205:1142528:R 1142528 Query Time: 32 micros
+1206:403403:R 403403 Query Time: 27 micros
+1207:865386:R 865386 Query Time: 25 micros
+1208:761331:M  Query Time: 25 micros
+1209:130905:R 130905 Query Time: 28 micros
+1210:905939:R 905939 Query Time: 25 micros
+1211:11853:R 11853 Query Time: 25 micros
+1212:596146:M  Query Time: 23 micros
+1213:11735:M  Query Time: 25 micros
+1214:722919:R 722919 Query Time: 25 micros
+1215:756437:R 756437 Query Time: 26 micros
+1216:28837:R 28837 Query Time: 26 micros
+1217:205699:R 205699 Query Time: 26 micros
+1218:634635:R 634635 Query Time: 32 micros
+1219:416626:R 416626 Query Time: 27 micros
+1220:766590:R 766590 Query Time: 25 micros
+1221:1336893:R 1336893 Query Time: 25 micros
+1222:285601:R 285601 Query Time: 25 micros
+1223:123684:R 123684 Query Time: 26 micros
+1224:290988:R 290988 Query Time: 27 micros
+1225:1182200:R 1182200 Query Time: 28 micros
+1226:349782:R 349782 Query Time: 26 micros
+1227:164038:R 164038 Query Time: 26 micros
+1228:537062:R 537062 Query Time: 26 micros
+1229:914533:R 914533 Query Time: 25 micros
+1230:883598:R 883598 Query Time: 27 micros
+1231:564171:R 564171 Query Time: 27 micros
+1232:1099362:R 1099362 Query Time: 26 micros
+1233:548202:R 548202 Query Time: 24 micros
+1234:547971:R 547971 Query Time: 27 micros
+1235:326055:R 326055 Query Time: 30 micros
+1236:362987:M  Query Time: 25 micros
+1237:1250181:R 1250181 Query Time: 28 micros
+1238:655982:R 655982 Query Time: 27 micros
+1239:159049:M  Query Time: 25 micros
+1240:1070317:M  Query Time: 26 micros
+1241:1338903:R 1338903 Query Time: 26 micros
+1242:884975:R 884975 Query Time: 26 micros
+1243:1094235:R 1094235 Query Time: 27 micros
+1244:1124731:R 1124731 Query Time: 26 micros
+1245:257585:R 257585 Query Time: 25 micros
+1246:726531:M  Query Time: 24 micros
+1247:927347:R 927347 Query Time: 26 micros
+1248:979524:R 979524 Query Time: 26 micros
+1249:955581:R 955581 Query Time: 27 micros
+1250:981490:R 981490 Query Time: 26 micros
+1251:264541:R 264541 Query Time: 26 micros
+1252:372715:R 372715 Query Time: 27 micros
+1253:447930:R 447930 Query Time: 26 micros
+1254:1146345:R 1146345 Query Time: 26 micros
+1255:401848:R 401848 Query Time: 26 micros
+1256:232401:R 232401 Query Time: 26 micros
+1257:1189269:R 1189269 Query Time: 27 micros
+1258:1192631:R 1192631 Query Time: 26 micros
+1259:149069:R 149069 Query Time: 26 micros
+1260:311670:R 311670 Query Time: 26 micros
+1261:261860:R 261860 Query Time: 25 micros
+1262:1124510:R 1124510 Query Time: 26 micros
+1263:360209:R 360209 Query Time: 28 micros
+1264:676666:R 676666 Query Time: 26 micros
+1265:1327825:R 1327825 Query Time: 26 micros
+1266:240741:R 240741 Query Time: 25 micros
+1267:1118967:R 1118967 Query Time: 25 micros
+1268:1290133:R 1290133 Query Time: 26 micros
+1269:1123117:R 1123117 Query Time: 26 micros
+1270:239338:R 239338 Query Time: 26 micros
+1271:561520:M  Query Time: 25 micros
+1272:953756:R 953756 Query Time: 27 micros
+1273:532809:R 532809 Query Time: 26 micros
+1274:72055:M  Query Time: 32 micros
+1275:382978:R 382978 Query Time: 27 micros
+1276:300773:R 300773 Query Time: 26 micros
+1277:950879:R 950879 Query Time: 24 micros
+1278:1399017:R 1399017 Query Time: 27 micros
+1279:191517:R 191517 Query Time: 26 micros
+1280:1081901:R 1081901 Query Time: 25 micros
+1281:964148:R 964148 Query Time: 26 micros
+1282:363528:R 363528 Query Time: 27 micros
+1283:1288924:R 1288924 Query Time: 24 micros
+1284:1172881:R 1172881 Query Time: 25 micros
+1285:809224:R 809224 Query Time: 25 micros
+1286:922069:M 58300 Query Time: 25 micros
+1287:1253357:R 1253357 Query Time: 25 micros
+1288:1138243:R 1000786	1138243 Query Time: 27 micros
+1289:885357:R 885357 Query Time: 26 micros
+1290:1215003:R 1215003 Query Time: 26 micros
+1291:214204:R 214204 Query Time: 27 micros
+1292:209846:R 209846 Query Time: 26 micros
+1293:546911:R 546911 Query Time: 26 micros
+1294:541227:R 541227 Query Time: 27 micros
+1295:55344:R 55344 Query Time: 31 micros
+1296:684398:R 684398 Query Time: 26 micros
+1297:827151:R 827151 Query Time: 28 micros
+1298:5344:R 5344	55635 Query Time: 30 micros
+1299:678991:R 678991 Query Time: 25 micros
+1300:1369572:R 1369572 Query Time: 26 micros
+1301:643459:R 643459 Query Time: 28 micros
+1302:601596:R 601596	900665 Query Time: 38 micros
+1303:351002:R 351002 Query Time: 26 micros
+1304:70883:R 70883 Query Time: 26 micros
+1305:169447:R 169447 Query Time: 25 micros
+1306:104946:R 104946 Query Time: 26 micros
+1307:97103:R 97103 Query Time: 30 micros
+1308:502763:R 502763 Query Time: 27 micros
+1309:340370:M  Query Time: 25 micros
+1310:135853:R 135853 Query Time: 26 micros
+1311:713241:R 713241 Query Time: 25 micros
+1312:819272:R 819272 Query Time: 26 micros
+1313:1258291:R 1258291 Query Time: 26 micros
+1314:43199:R 43199 Query Time: 26 micros
+1315:64782:R 64782 Query Time: 26 micros
+1316:964356:R 964356 Query Time: 33 micros
+1317:103726:R 103726 Query Time: 28 micros
+1318:370816:M  Query Time: 23 micros
+1319:1062675:M  Query Time: 92 micros
+1320:198407:R 198407 Query Time: 27 micros
+1321:740687:M 236615 Query Time: 26 micros
+1322:687886:R 687886 Query Time: 28 micros
+1323:38837:R 38837 Query Time: 26 micros
+1324:192182:R 192182 Query Time: 27 micros
+1325:292826:R 292826 Query Time: 26 micros
+1326:1033999:R 1033999 Query Time: 26 micros
+1327:594865:R 594865 Query Time: 27 micros
+1328:956529:R 956529 Query Time: 27 micros
+1329:619700:R 619700 Query Time: 28 micros
+1330:920174:R 920174 Query Time: 26 micros
+1331:81992:M  Query Time: 26 micros
+1332:403433:R 403433 Query Time: 25 micros
+1333:456833:M  Query Time: 25 micros
+1334:219269:R 219269 Query Time: 34 micros
+1335:1039336:R 1039336 Query Time: 27 micros
+1336:908017:R 908017 Query Time: 27 micros
+1337:1189710:R 1189710 Query Time: 27 micros
+1338:385241:R 385241 Query Time: 25 micros
+1339:494656:R 494656 Query Time: 24 micros
+1340:838186:R 838186 Query Time: 24 micros
+1341:282292:R 282292 Query Time: 25 micros
+1342:304647:R 304647 Query Time: 24 micros
+1343:1262902:R 1262902 Query Time: 25 micros
+1344:599644:R 599644 Query Time: 26 micros
+1345:819116:R 819241	818830	819451	819116	618033	613611 Query Time: 28 micros
+1346:1391169:M  Query Time: 25 micros
+1347:127338:R 127338 Query Time: 27 micros
+1348:553761:R 553761 Query Time: 25 micros
+1349:114186:M  Query Time: 25 micros
+1350:27810:R 27810 Query Time: 26 micros
+1351:468218:R 468218 Query Time: 26 micros
+1352:1089672:M  Query Time: 26 micros
+1353:107883:R 107883 Query Time: 26 micros
+1354:669517:R 669517 Query Time: 27 micros
+1355:295060:R 295060 Query Time: 25 micros
+1356:635653:M  Query Time: 25 micros
+1357:1117748:R 1117748 Query Time: 25 micros
+1358:211827:R 211827 Query Time: 26 micros
+1359:614328:R 705460	718519	614328 Query Time: 39 micros
+1360:935359:R 935359 Query Time: 27 micros
+1361:1385701:R 1385701 Query Time: 25 micros
+1362:882088:R 882088 Query Time: 27 micros
+1363:448447:M  Query Time: 26 micros
+1364:379291:R 379291 Query Time: 25 micros
+1365:146450:R 146450 Query Time: 26 micros
+1366:39437:R 39437 Query Time: 24 micros
+1367:704467:R 704467 Query Time: 28 micros
+1368:701272:R 701272 Query Time: 26 micros
+1369:132248:R 132248 Query Time: 25 micros
+1370:147843:R 147843 Query Time: 26 micros
+1371:493984:R 215433	493984	763097	637288 Query Time: 26 micros
+1372:871905:M  Query Time: 25 micros
+1373:313244:R 313244 Query Time: 26 micros
+1374:526874:R 526874 Query Time: 26 micros
+1375:295346:R 295346 Query Time: 28 micros
+1376:377530:R 377530 Query Time: 26 micros
+1377:1347518:R 1347518 Query Time: 25 micros
+1378:1096377:R 1096377 Query Time: 26 micros
+1379:1135822:R 1135822 Query Time: 25 micros
+1380:351711:R 351711 Query Time: 26 micros
+1381:785810:R 785810 Query Time: 34 micros
+1382:873814:R 873814 Query Time: 27 micros
+1383:1192573:M  Query Time: 24 micros
+1384:1321869:R 1321869 Query Time: 25 micros
+1385:804261:R 804261 Query Time: 25 micros
+1386:370545:R 370545 Query Time: 34 micros
+1387:1100928:R 1100928 Query Time: 27 micros
+1388:544283:R 544283 Query Time: 27 micros
+1389:684751:R 684751 Query Time: 34 micros
+1390:608181:R 608181 Query Time: 30 micros
+1391:721519:R 721519 Query Time: 26 micros
+1392:1349762:R 1349762 Query Time: 27 micros
+1393:982761:R 982761 Query Time: 26 micros
+1394:397237:R 397237 Query Time: 31 micros
+1395:1273955:R 1273955 Query Time: 29 micros
+1396:474281:R 474281 Query Time: 27 micros
+1397:126466:R 126466 Query Time: 27 micros
+1398:197145:R 197145 Query Time: 26 micros
+1399:1250553:M  Query Time: 23 micros
+1400:916520:R 916520 Query Time: 27 micros
+1401:1205495:R 1205495 Query Time: 27 micros
+1402:219276:R 219276 Query Time: 29 micros
+1403:828895:R 828895 Query Time: 26 micros
+1404:249962:R 249962 Query Time: 26 micros
+1405:1086493:R 1086493 Query Time: 26 micros
+1406:736739:R 736739 Query Time: 26 micros
+1407:458707:R 458707 Query Time: 26 micros
+1408:283882:R 283882 Query Time: 30 micros
+1409:191175:R 191175 Query Time: 25 micros
+1410:342237:R 342237 Query Time: 27 micros
+1411:1350386:R 1350386 Query Time: 25 micros
+1412:1323905:R 1323905 Query Time: 26 micros
+1413:900986:R 900986 Query Time: 26 micros
+1414:1139996:R 1139996 Query Time: 26 micros
+1415:1149481:R 1149481 Query Time: 25 micros
+1416:577416:R 577416	379295	75475 Query Time: 26 micros
+1417:143313:M  Query Time: 25 micros
+1418:682414:R 682414 Query Time: 25 micros
+1419:1010547:M  Query Time: 24 micros
+1420:1361218:M  Query Time: 27 micros
+1421:658105:R 658105 Query Time: 26 micros
+1422:76421:R 76421 Query Time: 27 micros
+1423:1153908:R 1153908 Query Time: 43 micros
+1424:1019714:R 1019714 Query Time: 26 micros
+1425:1398220:R 222865	1398220 Query Time: 25 micros
+1426:1070151:R 1070151 Query Time: 27 micros
+1427:888302:R 888302 Query Time: 25 micros
+1428:862975:M  Query Time: 25 micros
+1429:881125:R 881125 Query Time: 25 micros
+1430:473248:R 473248 Query Time: 27 micros
+1431:314612:R 314612 Query Time: 26 micros
+1432:1163905:R 1163905 Query Time: 27 micros
+1433:1368537:R 1368537 Query Time: 27 micros
+1434:802443:R 802443 Query Time: 26 micros
+1435:685246:R 685246 Query Time: 26 micros
+1436:1025910:R 1224581	1224397	1224213	1025910 Query Time: 38 micros
+1437:852836:R 852836 Query Time: 25 micros
+1438:1233961:R 1233961 Query Time: 28 micros
+1439:560762:R 560762 Query Time: 27 micros
+1440:107247:R 107247 Query Time: 32 micros
+1441:183459:M  Query Time: 25 micros
+1442:1162087:R 1162087 Query Time: 28 micros
+1443:6511:R 6511 Query Time: 27 micros
+1444:948526:R 948526 Query Time: 25 micros
+1445:1278119:R 1278119 Query Time: 25 micros
+1446:1113028:R 1113028 Query Time: 27 micros
+1447:998410:R 998410 Query Time: 26 micros
+1448:385120:R 385120 Query Time: 26 micros
+1449:931261:R 931261 Query Time: 27 micros
+1450:1234273:R 1234273 Query Time: 25 micros
+1451:1155066:R 1155066 Query Time: 26 micros
+1452:492046:R 492046 Query Time: 26 micros
+1453:958506:R 958506 Query Time: 25 micros
+1454:1189689:R 1189689 Query Time: 26 micros
+1455:701669:R 798276	355560	701669 Query Time: 26 micros
+1456:942861:R 942861 Query Time: 23 micros
+1457:79312:R 821666	60206	718774	28104	79312 Query Time: 31 micros
+1458:728081:R 728081 Query Time: 26 micros
+1459:609623:R 609623 Query Time: 26 micros
+1460:167544:R 167544 Query Time: 25 micros
+1461:670702:R 670702 Query Time: 25 micros
+1462:517189:R 517189 Query Time: 43 micros
+1463:798016:R 798016 Query Time: 28 micros
+1464:214791:M  Query Time: 24 micros
+1465:1308333:R 1308333 Query Time: 26 micros
+1466:1091985:R 1091985 Query Time: 26 micros
+1467:554456:R 554456 Query Time: 26 micros
+1468:621584:R 621584 Query Time: 25 micros
+1469:833938:R 833938 Query Time: 25 micros
+1470:14136:R 14136 Query Time: 26 micros
+1471:1200487:R 1200487 Query Time: 26 micros
+1472:40603:R 40603 Query Time: 28 micros
+1473:439730:R 439730	752129 Query Time: 42 micros
+1474:677665:R 677665 Query Time: 26 micros
+1475:1057807:R 1057807 Query Time: 25 micros
+1476:957022:R 957022 Query Time: 37 micros
+1477:396814:R 396814 Query Time: 26 micros
+1478:690947:R 690947 Query Time: 26 micros
+1479:1396634:R 1396634 Query Time: 26 micros
+1480:108341:R 108341 Query Time: 39 micros
+1481:490828:R 490828 Query Time: 26 micros
+1482:898079:R 898079 Query Time: 26 micros
+1483:206856:R 206856 Query Time: 27 micros
+1484:1361541:R 1361541 Query Time: 26 micros
+1485:631775:R 631775 Query Time: 26 micros
+1486:671049:R 671049 Query Time: 25 micros
+1487:828842:R 828842 Query Time: 27 micros
+1488:297352:R 297352 Query Time: 26 micros
+1489:1364862:R 1364862 Query Time: 25 micros
+1490:1095526:R 1095526 Query Time: 27 micros
+1491:46434:R 46434 Query Time: 26 micros
+1492:184038:R 184038 Query Time: 25 micros
+1493:33336:R 33336 Query Time: 30 micros
+1494:1190581:R 1190581 Query Time: 27 micros
+1495:931345:R 931345 Query Time: 32 micros
+1496:824415:M  Query Time: 33 micros
+1497:387852:R 1148150	834959	387852	1156753	248053 Query Time: 35 micros
+1498:191000:R 191000 Query Time: 33 micros
+1499:591127:R 591127 Query Time: 32 micros
+1500:530754:R 530754 Query Time: 26 micros
+1501:1391111:R 1391111 Query Time: 26 micros
+1502:891436:R 891436 Query Time: 24 micros
+1503:858796:R 858796 Query Time: 36 micros
+1504:882746:R 882746 Query Time: 25 micros
+1505:764866:R 764866 Query Time: 28 micros
+1506:1215381:R 1215381 Query Time: 26 micros
+1507:359093:R 359093 Query Time: 26 micros
+1508:375808:R 375808 Query Time: 26 micros
+1509:651621:R 651621 Query Time: 27 micros
+1510:184122:M  Query Time: 24 micros
+1511:618303:R 618303 Query Time: 26 micros
+1512:581293:R 581293 Query Time: 27 micros
+1513:1050525:R 1050525 Query Time: 27 micros
+1514:666107:R 666107 Query Time: 25 micros
+1515:466625:M  Query Time: 25 micros
+1516:1011924:R 1011924 Query Time: 25 micros
+1517:1092166:R 1092166 Query Time: 27 micros
+1518:138079:R 138079 Query Time: 24 micros
+1519:203747:R 203747 Query Time: 25 micros
+1520:327326:R 327326 Query Time: 27 micros
+1521:1332770:R 1332770 Query Time: 25 micros
+1522:660194:R 660194 Query Time: 26 micros
+1523:1398851:R 1398851 Query Time: 25 micros
+1524:873929:R 873929 Query Time: 26 micros
+1525:301189:R 301189 Query Time: 26 micros
+1526:349107:R 349107 Query Time: 26 micros
+1527:1020210:R 1020210 Query Time: 26 micros
+1528:1348141:M  Query Time: 24 micros
+1529:706855:R 706855 Query Time: 28 micros
+1530:381857:R 381857 Query Time: 39 micros
+1531:609044:R 609044 Query Time: 35 micros
+1532:1301449:R 1301449 Query Time: 27 micros
+1533:617507:R 617507 Query Time: 25 micros
+1534:1029865:R 1029865 Query Time: 25 micros
+1535:400764:R 400764 Query Time: 35 micros
+1536:590303:R 590303 Query Time: 25 micros
+1537:810047:R 810047 Query Time: 25 micros
+1538:82916:R 82916 Query Time: 26 micros
+1539:530088:R 530088 Query Time: 24 micros
+1540:811766:R 811766 Query Time: 28 micros
+1541:120740:R 120740 Query Time: 33 micros
+1542:1152247:R 1152247 Query Time: 28 micros
+1543:1214295:R 1214295 Query Time: 25 micros
+1544:738415:R 738415 Query Time: 27 micros
+1545:1267574:R 1267574 Query Time: 27 micros
+1546:48934:R 48934 Query Time: 26 micros
+1547:1368386:R 1368386 Query Time: 26 micros
+1548:808450:R 808450 Query Time: 26 micros
+1549:801455:R 801455 Query Time: 25 micros
+1550:276987:R 276987 Query Time: 27 micros
+1551:1199120:R 1199120 Query Time: 26 micros
+1552:202716:R 202716 Query Time: 26 micros
+1553:1050654:R 1050654 Query Time: 28 micros
+1554:1269050:R 1269050 Query Time: 26 micros
+1555:986962:R 986962 Query Time: 27 micros
+1556:78330:R 78330 Query Time: 26 micros
+1557:795333:R 795333 Query Time: 27 micros
+1558:877069:R 877069 Query Time: 27 micros
+1559:91597:R 91597 Query Time: 26 micros
+1560:387350:R 387350 Query Time: 26 micros
+1561:933525:R 933525 Query Time: 26 micros
+1562:1324473:R 1324473 Query Time: 27 micros
+1563:20444:R 20444 Query Time: 26 micros
+1564:1020069:R 1020069 Query Time: 26 micros
+1565:796651:R 796651 Query Time: 27 micros
+1566:1136590:M  Query Time: 25 micros
+1567:155603:R 155603 Query Time: 27 micros
+1568:654921:R 654921 Query Time: 26 micros
+1569:1339331:M  Query Time: 30 micros
+1570:738794:R 738794 Query Time: 26 micros
+1571:249122:M  Query Time: 24 micros
+1572:573759:R 573759 Query Time: 28 micros
+1573:1289408:R 1289408 Query Time: 27 micros
+1574:44386:R 44386 Query Time: 27 micros
+1575:544803:R 544803 Query Time: 26 micros
+1576:350424:R 350424 Query Time: 27 micros
+1577:324082:R 324082 Query Time: 25 micros
+1578:503434:R 503434 Query Time: 29 micros
+1579:477633:R 477633 Query Time: 27 micros
+1580:673173:R 673173 Query Time: 27 micros
+1581:606827:R 606827 Query Time: 26 micros
+1582:1246013:R 1246013 Query Time: 25 micros
+1583:209938:R 209938 Query Time: 24 micros
+1584:190155:R 190155 Query Time: 33 micros
+1585:1188108:R 1188108 Query Time: 26 micros
+1586:78731:R 78731 Query Time: 26 micros
+1587:341171:R 341171 Query Time: 25 micros
+1588:604891:M  Query Time: 25 micros
+1589:1002846:R 1002846 Query Time: 25 micros
+1590:8829:R 8829 Query Time: 25 micros
+1591:439052:M  Query Time: 26 micros
+1592:80998:R 80998 Query Time: 26 micros
+1593:300501:R 300501 Query Time: 25 micros
+1594:810368:R 810368 Query Time: 27 micros
+1595:1398616:R 1398616 Query Time: 27 micros
+1596:131643:M  Query Time: 25 micros
+1597:307459:R 307459 Query Time: 24 micros
+1598:692684:R 692684 Query Time: 25 micros
+1599:1395159:M  Query Time: 25 micros
+1600:1030551:R 1030551 Query Time: 26 micros
+1601:969817:R 969817 Query Time: 27 micros
+1602:1102117:R 1102117 Query Time: 27 micros
+1603:157009:R 157009 Query Time: 27 micros
+1604:723807:R 723807 Query Time: 25 micros
+1605:112454:R 112454 Query Time: 27 micros
+1606:1171101:R 1171101 Query Time: 25 micros
+1607:604365:R 604365 Query Time: 26 micros
+1608:1024315:R 1024315 Query Time: 25 micros
+1609:112233:R 112233 Query Time: 25 micros
+1610:374293:R 374293 Query Time: 31 micros
+1611:1363138:R 1363138 Query Time: 25 micros
+1612:315555:R 315555 Query Time: 25 micros
+1613:694169:R 694169 Query Time: 25 micros
+1614:1136319:R 1136319 Query Time: 26 micros
+1615:87944:M  Query Time: 24 micros
+1616:83980:R 83980 Query Time: 27 micros
+1617:753184:R 753184 Query Time: 27 micros
+1618:296896:R 786686	296896 Query Time: 35 micros
+1619:303564:R 303564 Query Time: 26 micros
+1620:965839:R 965839 Query Time: 27 micros
+1621:503969:R 503969 Query Time: 26 micros
+1622:1122220:R 1122220 Query Time: 28 micros
+1623:1069049:R 1069049 Query Time: 25 micros
+1624:613446:R 613446 Query Time: 26 micros
+1625:650406:R 650406 Query Time: 28 micros
+1626:675791:R 675791 Query Time: 27 micros
+1627:1186209:R 1186209 Query Time: 25 micros
+1628:245627:R 245627 Query Time: 25 micros
+1629:495003:R 495003 Query Time: 27 micros
+1630:654601:R 654601 Query Time: 25 micros
+1631:281936:M  Query Time: 24 micros
+1632:1167640:R 1167640 Query Time: 26 micros
+1633:1000971:R 1138428	1000971 Query Time: 26 micros
+1634:443056:R 443056 Query Time: 28 micros
+1635:922889:M  Query Time: 24 micros
+1636:53727:R 53727 Query Time: 24 micros
+1637:1098560:R 1098560 Query Time: 25 micros
+1638:1188030:R 1188030 Query Time: 26 micros
+1639:246927:R 246927 Query Time: 25 micros
+1640:1201538:R 1201538 Query Time: 25 micros
+1641:146116:R 146116 Query Time: 26 micros
+1642:1091667:R 1091667 Query Time: 26 micros
+1643:457511:R 457511 Query Time: 26 micros
+1644:17154:M  Query Time: 25 micros
+1645:972510:R 972510 Query Time: 27 micros
+1646:624873:M 303585 Query Time: 27 micros
+1647:678389:R 678389 Query Time: 28 micros
+1648:1394942:R 1394942 Query Time: 28 micros
+1649:103558:R 103558 Query Time: 26 micros
+1650:354782:R 354782 Query Time: 27 micros
+1651:859658:R 859658 Query Time: 27 micros
+1652:396406:R 396406 Query Time: 31 micros
+1653:670301:R 670301 Query Time: 25 micros
+1654:143829:R 143829 Query Time: 26 micros
+1655:1213411:M  Query Time: 25 micros
+1656:606566:R 428637	606566 Query Time: 25 micros
+1657:97801:R 97801 Query Time: 109 micros
+1658:828169:R 828169 Query Time: 30 micros
+1659:759915:M  Query Time: 25 micros
+1660:79181:R 79181 Query Time: 26 micros
+1661:1156388:R 1156388 Query Time: 25 micros
+1662:319486:R 319486 Query Time: 36 micros
+1663:1380238:R 1380238 Query Time: 26 micros
+1664:990716:R 990716 Query Time: 26 micros
+1665:242166:R 242166 Query Time: 25 micros
+1666:734198:R 734198 Query Time: 27 micros
+1667:991048:R 991048 Query Time: 26 micros
+1668:1123838:R 1123838 Query Time: 26 micros
+1669:615450:R 615450 Query Time: 26 micros
+1670:1196822:R 1196822 Query Time: 33 micros
+1671:363500:M  Query Time: 25 micros
+1672:909434:R 909434 Query Time: 25 micros
+1673:893270:R 893270 Query Time: 25 micros
+1674:1024934:R 1024934 Query Time: 26 micros
+1675:1345110:R 1345110 Query Time: 25 micros
+1676:701031:R 701031 Query Time: 26 micros
+1677:728294:R 728294 Query Time: 26 micros
+1678:1336527:R 1336527 Query Time: 26 micros
+1679:28113:R 28113 Query Time: 25 micros
+1680:795636:R 795636 Query Time: 26 micros
+1681:176786:R 176786 Query Time: 26 micros
+1682:1096727:R 1096727 Query Time: 26 micros
+1683:474109:R 474109 Query Time: 25 micros
+1684:527799:R 527799 Query Time: 24 micros
+1685:801062:R 801062 Query Time: 25 micros
+1686:795768:R 795768 Query Time: 26 micros
+1687:611653:R 611653 Query Time: 25 micros
+1688:1073463:R 1073463 Query Time: 27 micros
+1689:803843:R 803843 Query Time: 27 micros
+1690:510506:R 510506 Query Time: 26 micros
+1691:384236:R 384236 Query Time: 24 micros
+1692:817873:R 817873 Query Time: 25 micros
+1693:524022:R 524022 Query Time: 25 micros
+1694:143854:R 143854 Query Time: 26 micros
+1695:118700:M  Query Time: 25 micros
+1696:308517:M  Query Time: 23 micros
+1697:995697:M  Query Time: 25 micros
+1698:1310357:R 1310357 Query Time: 25 micros
+1699:1091285:R 1091285 Query Time: 24 micros
+1700:1395288:R 1395288 Query Time: 26 micros
+1701:79530:R 79530 Query Time: 35 micros
+1702:1286793:M  Query Time: 24 micros
+1703:238091:R 238091 Query Time: 28 micros
+1704:613683:R 613683 Query Time: 26 micros
+1705:474639:R 474639 Query Time: 26 micros
+1706:873709:R 873709 Query Time: 24 micros
+1707:1043083:R 1043083 Query Time: 32 micros
+1708:1389725:M  Query Time: 25 micros
+1709:1228394:R 1228394 Query Time: 25 micros
+1710:586907:M  Query Time: 25 micros
+1711:534868:R 534868 Query Time: 25 micros
+1712:1086023:M  Query Time: 25 micros
+1713:497319:R 497319 Query Time: 25 micros
+1714:787445:R 787445 Query Time: 25 micros
+1715:380749:R 380749 Query Time: 27 micros
+1716:828851:R 828851 Query Time: 24 micros
+1717:1370554:R 1370554 Query Time: 27 micros
+1718:1204139:R 1204139 Query Time: 26 micros
+1719:999554:R 999554 Query Time: 24 micros
+1720:250269:R 250269 Query Time: 26 micros
+1721:1206668:R 1206668 Query Time: 26 micros
+1722:364949:R 1075013	364949	168346	1234321	1355973	179760 Query Time: 92 micros
+1723:1060666:R 1060666 Query Time: 25 micros
+1724:315986:R 315986 Query Time: 28 micros
+1725:363548:R 363548 Query Time: 26 micros
+1726:1131370:M  Query Time: 25 micros
+1727:629563:R 629563 Query Time: 26 micros
+1728:210594:R 210594 Query Time: 24 micros
+1729:155559:R 155559 Query Time: 26 micros
+1730:1369467:M  Query Time: 26 micros
+1731:238044:R 238044 Query Time: 25 micros
+1732:649012:R 649012 Query Time: 26 micros
+1733:131272:R 131272 Query Time: 26 micros
+1734:793771:R 793771 Query Time: 27 micros
+1735:890709:R 890709 Query Time: 26 micros
+1736:834530:R 834530 Query Time: 27 micros
+1737:932207:R 932207 Query Time: 26 micros
+1738:1010125:R 1010125 Query Time: 27 micros
+1739:41456:R 41456 Query Time: 26 micros
+1740:679842:R 679842 Query Time: 26 micros
+1741:271495:R 271495 Query Time: 26 micros
+1742:296691:R 296691 Query Time: 26 micros
+1743:706883:R 706883 Query Time: 27 micros
+1744:959296:R 959296 Query Time: 26 micros
+1745:603529:M  Query Time: 25 micros
+1746:851966:R 851966 Query Time: 26 micros
+1747:1035730:R 1035730 Query Time: 27 micros
+1748:863524:R 863524 Query Time: 26 micros
+1749:343245:R 343245 Query Time: 24 micros
+1750:532246:R 532246 Query Time: 25 micros
+1751:1329642:R 1329642 Query Time: 25 micros
+1752:655424:R 655424 Query Time: 25 micros
+1753:655857:R 655857 Query Time: 24 micros
+1754:671808:R 671808 Query Time: 26 micros
+1755:876934:R 876934 Query Time: 27 micros
+1756:288359:R 288359 Query Time: 24 micros
+1757:810335:M  Query Time: 23 micros
+1758:172603:R 172603 Query Time: 26 micros
+1759:525209:R 525209 Query Time: 25 micros
+1760:229820:M  Query Time: 24 micros
+1761:267865:M 839555 Query Time: 27 micros
+1762:567342:R 567342 Query Time: 26 micros
+1763:206149:R 206149 Query Time: 35 micros
+1764:630001:R 630001 Query Time: 26 micros
+1765:673950:R 673950 Query Time: 26 micros
+1766:556581:R 556581 Query Time: 27 micros
+1767:1063513:R 1063513 Query Time: 26 micros
+1768:184508:R 184508 Query Time: 25 micros
+1769:391487:R 391487 Query Time: 27 micros
+1770:1259079:R 1259079 Query Time: 25 micros
+1771:584170:R 584170 Query Time: 26 micros
+1772:1175042:R 1175042 Query Time: 35 micros
+1773:187646:R 187646 Query Time: 26 micros
+1774:1266228:R 1266228 Query Time: 25 micros
+1775:1001458:R 1001458 Query Time: 26 micros
+1776:321922:R 321922 Query Time: 25 micros
+1777:137775:R 137775 Query Time: 27 micros
+1778:597353:R 597353 Query Time: 27 micros
+1779:824007:R 824007 Query Time: 26 micros
+1780:1342335:R 1342335 Query Time: 25 micros
+1781:268122:R 268122 Query Time: 26 micros
+1782:1126798:M  Query Time: 25 micros
+1783:168469:R 168469 Query Time: 27 micros
+1784:379310:R 379310 Query Time: 26 micros
+1785:618568:R 618568 Query Time: 26 micros
+1786:702172:R 702172 Query Time: 26 micros
+1787:360510:R 360510 Query Time: 26 micros
+1788:1242762:M  Query Time: 30 micros
+1789:339281:R 339281 Query Time: 26 micros
+1790:1086517:R 1086517 Query Time: 26 micros
+1791:593426:R 593426 Query Time: 26 micros
+1792:619740:R 619740 Query Time: 26 micros
+1793:1386384:R 1386384 Query Time: 24 micros
+1794:1073350:R 1073350 Query Time: 25 micros
+1795:131086:R 131086 Query Time: 25 micros
+1796:860368:R 860368 Query Time: 28 micros
+1797:450113:R 450113 Query Time: 29 micros
+1798:274909:R 274909 Query Time: 26 micros
+1799:487462:R 487462 Query Time: 25 micros
+1800:488489:R 488489	1092669 Query Time: 25 micros
+1801:880488:R 880488 Query Time: 26 micros
+1802:98570:R 98570 Query Time: 27 micros
+1803:510492:M  Query Time: 26 micros
+1804:927980:M  Query Time: 24 micros
+1805:1048292:M  Query Time: 26 micros
+1806:999914:R 999914 Query Time: 27 micros
+1807:846661:M  Query Time: 24 micros
+1808:833367:R 833367 Query Time: 27 micros
+1809:1159641:R 1159641 Query Time: 27 micros
+1810:898606:R 898606 Query Time: 27 micros
+1811:349404:R 349404 Query Time: 26 micros
+1812:961133:R 961133 Query Time: 25 micros
+1813:1322404:R 1322404 Query Time: 21 micros
+1814:969193:R 969193 Query Time: 27 micros
+1815:866414:R 866414 Query Time: 25 micros
+1816:527563:R 527563 Query Time: 26 micros
+1817:1278196:R 1278196 Query Time: 28 micros
+1818:891651:R 891651 Query Time: 27 micros
+1819:715566:R 715566 Query Time: 25 micros
+1820:1300146:R 1300146 Query Time: 25 micros
+1821:1071191:R 1071191 Query Time: 26 micros
+1822:893070:R 893070 Query Time: 26 micros
+1823:822152:R 822152 Query Time: 26 micros
+1824:1018586:R 1018586 Query Time: 25 micros
+1825:637273:R 637273 Query Time: 25 micros
+1826:84776:M  Query Time: 26 micros
+1827:194389:R 194389 Query Time: 27 micros
+1828:675682:R 675682 Query Time: 25 micros
+1829:268246:R 268246 Query Time: 27 micros
+1830:1138861:R 1138861	1001404 Query Time: 26 micros
+1831:592877:R 592877 Query Time: 25 micros
+1832:1330794:M  Query Time: 26 micros
+1833:721294:R 721294 Query Time: 24 micros
+1834:652861:R 652861 Query Time: 25 micros
+1835:538114:R 538114 Query Time: 25 micros
+1836:1054967:R 1054967 Query Time: 25 micros
+1837:90915:R 90915 Query Time: 25 micros
+1838:1121274:R 1121274 Query Time: 27 micros
+1839:1076649:M  Query Time: 24 micros
+1840:370283:R 370283 Query Time: 26 micros
+1841:91511:R 91511 Query Time: 26 micros
+1842:589204:R 589204 Query Time: 26 micros
+1843:1336661:R 1336661 Query Time: 26 micros
+1844:1216719:M  Query Time: 26 micros
+1845:55885:R 55885 Query Time: 26 micros
+1846:469051:R 469051 Query Time: 26 micros
+1847:1134847:R 1134847 Query Time: 26 micros
+1848:480653:R 480653 Query Time: 27 micros
+1849:4301:R 4301 Query Time: 26 micros
+1850:798469:R 798469 Query Time: 26 micros
+1851:1010574:R 1010574 Query Time: 26 micros
+1852:1008075:R 1008075 Query Time: 27 micros
+1853:1242689:R 1242689 Query Time: 25 micros
+1854:546958:R 546958 Query Time: 26 micros
+1855:977071:R 977071 Query Time: 26 micros
+1856:13974:R 13974 Query Time: 25 micros
+1857:48900:R 48900 Query Time: 27 micros
+1858:1031423:R 1031423 Query Time: 27 micros
+1859:212062:R 212062 Query Time: 25 micros
+1860:387737:R 177173	495305	387737 Query Time: 31 micros
+1861:539713:R 539713 Query Time: 29 micros
+1862:682087:R 682087 Query Time: 38 micros
+1863:215773:R 215773 Query Time: 33 micros
+1864:1378270:R 1378270 Query Time: 28 micros
+1865:505340:R 505340 Query Time: 26 micros
+1866:658580:R 658580 Query Time: 26 micros
+1867:679573:R 679573 Query Time: 28 micros
+1868:98447:R 98447 Query Time: 28 micros
+1869:460023:R 460023 Query Time: 25 micros
+1870:279911:R 279911 Query Time: 26 micros
+1871:593396:R 593396 Query Time: 27 micros
+1872:834678:R 834678 Query Time: 26 micros
+1873:1385969:R 1385969 Query Time: 27 micros
+1874:90208:R 90208 Query Time: 28 micros
+1875:541334:R 541334 Query Time: 25 micros
+1876:383670:R 383670 Query Time: 26 micros
+1877:1326551:R 1326551 Query Time: 26 micros
+1878:1150014:M  Query Time: 23 micros
+1879:925824:R 925824 Query Time: 28 micros
+1880:1180850:R 1180850 Query Time: 26 micros
+1881:67317:R 67317 Query Time: 25 micros
+1882:1003807:R 1003807 Query Time: 26 micros
+1883:798042:R 798042 Query Time: 25 micros
+1884:191716:R 191716 Query Time: 25 micros
+1885:20111:M  Query Time: 24 micros
+1886:851243:M  Query Time: 25 micros
+1887:1322756:R 1322756 Query Time: 36 micros
+1888:1216807:R 1216807 Query Time: 25 micros
+1889:1030514:R 1030514 Query Time: 26 micros
+1890:431783:R 431783 Query Time: 26 micros
+1891:33202:R 33202 Query Time: 25 micros
+1892:1068152:M  Query Time: 25 micros
+1893:190280:R 190280 Query Time: 27 micros
+1894:841402:R 841402 Query Time: 26 micros
+1895:195793:M  Query Time: 48 micros
+1896:292481:R 292481 Query Time: 27 micros
+1897:924875:R 924875 Query Time: 26 micros
+1898:501594:M  Query Time: 25 micros
+1899:143690:R 143690 Query Time: 26 micros
+1900:1297491:R 1297491 Query Time: 26 micros
+1901:1283005:R 1283005 Query Time: 28 micros
+1902:486161:R 486161 Query Time: 25 micros
+1903:1196731:R 1196731 Query Time: 27 micros
+1904:1187416:R 1187416 Query Time: 26 micros
+1905:1062870:R 1062870 Query Time: 25 micros
+1906:125089:R 125089 Query Time: 26 micros
+1907:993582:R 993582 Query Time: 26 micros
+1908:87381:R 87381 Query Time: 26 micros
+1909:1100721:M  Query Time: 25 micros
+1910:882270:R 882270 Query Time: 28 micros
+1911:998383:R 998383 Query Time: 28 micros
+1912:1071:R 1071 Query Time: 27 micros
+1913:59010:R 59010 Query Time: 26 micros
+1914:56031:R 56031 Query Time: 26 micros
+1915:981545:R 981545 Query Time: 27 micros
+1916:749931:R 749931 Query Time: 26 micros
+1917:1302974:R 1302974 Query Time: 26 micros
+1918:1102965:R 1102965 Query Time: 25 micros
+1919:405300:R 405300 Query Time: 27 micros
+1920:1243815:R 1243815 Query Time: 26 micros
+1921:895468:R 895468 Query Time: 26 micros
+1922:480034:R 480034 Query Time: 27 micros
+1923:269140:R 269140	1035845 Query Time: 27 micros
+1924:757235:R 757235 Query Time: 25 micros
+1925:358996:R 358996 Query Time: 26 micros
+1926:479422:R 479422 Query Time: 26 micros
+1927:59926:R 59926 Query Time: 25 micros
+1928:246801:R 246801 Query Time: 26 micros
+1929:1063330:M  Query Time: 25 micros
+1930:164446:R 164446	726085 Query Time: 27 micros
+1931:199959:R 199959 Query Time: 25 micros
+1932:1187788:R 1187788 Query Time: 26 micros
+1933:488111:R 488111 Query Time: 26 micros
+1934:105590:R 105590 Query Time: 27 micros
+1935:1222998:M  Query Time: 27 micros
+1936:1214273:R 1214273 Query Time: 26 micros
+1937:1000782:M  Query Time: 24 micros
+1938:1248541:M  Query Time: 30 micros
+1939:1106691:R 1106691 Query Time: 26 micros
+1940:1071752:R 822034	1071752 Query Time: 26 micros
+1941:415062:R 415062 Query Time: 27 micros
+1942:820324:R 820324 Query Time: 26 micros
+1943:127049:R 127049 Query Time: 34 micros
+1944:461516:R 461516 Query Time: 24 micros
+1945:389898:R 389898 Query Time: 25 micros
+1946:502172:R 502172 Query Time: 25 micros
+1947:681529:R 681529 Query Time: 26 micros
+1948:605283:R 605283 Query Time: 25 micros
+1949:1345095:M  Query Time: 23 micros
+1950:121895:R 121895 Query Time: 26 micros
+1951:200607:R 200607 Query Time: 26 micros
+1952:685535:R 685535 Query Time: 29 micros
+1953:919601:R 919601 Query Time: 26 micros
+1954:791690:R 791690 Query Time: 26 micros
+1955:313245:R 313245 Query Time: 26 micros
+1956:1288322:R 1288322 Query Time: 25 micros
+1957:876642:R 876642 Query Time: 27 micros
+1958:293904:M  Query Time: 23 micros
+1959:640063:R 640063 Query Time: 27 micros
+1960:507674:R 507674 Query Time: 27 micros
+1961:549166:R 549166 Query Time: 26 micros
+1962:1258843:R 1258843 Query Time: 26 micros
+1963:974202:R 974202 Query Time: 26 micros
+1964:937827:R 937827 Query Time: 25 micros
+1965:483941:M  Query Time: 25 micros
+1966:175924:R 175924 Query Time: 26 micros
+1967:1322050:R 1322050 Query Time: 37 micros
+1968:500018:R 500018 Query Time: 27 micros
+1969:549112:R 549112	283417 Query Time: 25 micros
+1970:1232707:R 1232707 Query Time: 27 micros
+1971:1275136:R 1275136 Query Time: 25 micros
+1972:580466:R 580466 Query Time: 27 micros
+1973:224875:R 224875 Query Time: 36 micros
+1974:469892:R 469892 Query Time: 26 micros
+1975:317104:R 317104 Query Time: 27 micros
+1976:763163:R 763163 Query Time: 27 micros
+1977:969308:R 969308 Query Time: 25 micros
+1978:248827:R 248827 Query Time: 26 micros
+1979:1114803:R 1114803 Query Time: 28 micros
+1980:926779:R 926779 Query Time: 26 micros
+1981:1121717:R 1121717 Query Time: 27 micros
+1982:883762:R 883762 Query Time: 30 micros
+1983:438611:R 438611 Query Time: 26 micros
+1984:1283037:R 1283037	7387	474942 Query Time: 25 micros
+1985:725086:M  Query Time: 25 micros
+1986:1285635:R 1285635 Query Time: 26 micros
+1987:870326:M  Query Time: 26 micros
+1988:526342:R 526342 Query Time: 25 micros
+1989:1285035:R 1285035 Query Time: 26 micros
+1990:107512:R 107512 Query Time: 25 micros
+1991:1302836:M  Query Time: 25 micros
+1992:1100651:R 1100651 Query Time: 25 micros
+1993:1220017:R 1220017 Query Time: 25 micros
+1994:882287:R 882287 Query Time: 35 micros
+1995:164406:R 164406 Query Time: 26 micros
+1996:245869:R 245869 Query Time: 26 micros
+1997:74491:R 74491 Query Time: 26 micros
+1998:1385543:R 1385543 Query Time: 26 micros
+1999:796692:R 796692 Query Time: 26 micros

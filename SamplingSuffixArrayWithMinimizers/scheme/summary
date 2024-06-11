@@ -1,0 +1,24 @@
+scheme/ws8ms2qsamonella
+Construction Time: 24093 ms
+SA Size: 4171145 bytes
+Query Time: 60 ms
+scheme/ws4ms3qsamonella
+Construction Time: 9718 ms
+SA Size: 9277970 bytes
+Query Time: 52 ms
+scheme/ws8ms4qsamonella
+Construction Time: 19518 ms
+SA Size: 5826403 bytes
+Query Time: 63 ms
+scheme/ws4ms2qsamonella
+Construction Time: 15250 ms
+SA Size: 6986817 bytes
+Query Time: 51 ms
+scheme/ws4ms1qsamonella
+Construction Time: 16924 ms
+SA Size: 6526156 bytes
+Query Time: 52 ms
+scheme/ws8ms6qsamonella
+Construction Time: 12938 ms
+SA Size: 8246541 bytes
+Query Time: 52 ms
